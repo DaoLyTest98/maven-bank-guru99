@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Headless Chrome"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.238">
+  <properties />
+  
+  
+            <testcase name="TC_07_Date_Of_Birth_Blank" time="1.238" classname="bank.guru.user.Manager" />
+      
+</testsuite>

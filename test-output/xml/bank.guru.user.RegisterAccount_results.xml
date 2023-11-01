@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Headless Chrome"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="8.813">
+  <properties />
+  
+  
+            <testcase name="TC_01_Email_Blank" time="3.013" classname="bank.guru.user.RegisterAccount" />
+                <testcase name="TC_02_Email_Without_Username" time="0.361" classname="bank.guru.user.RegisterAccount" />
+                <testcase name="TC_04_Email_Without_Domail" time="0.306" classname="bank.guru.user.RegisterAccount" />
+                <testcase name="TC_05_SignUpAccountSuccess" time="4.858" classname="bank.guru.user.RegisterAccount" />
+                <testcase name="TC_03_Email_Without_At_Sign" time="0.275" classname="bank.guru.user.RegisterAccount" />
+      
+</testsuite>

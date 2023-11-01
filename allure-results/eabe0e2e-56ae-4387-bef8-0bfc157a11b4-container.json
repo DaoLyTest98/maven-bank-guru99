@@ -1,0 +1,1 @@
+{"uuid":"eabe0e2e-56ae-4387-bef8-0bfc157a11b4","name":"bank.guru.user.RegisterAccount","children":["072ceda4-9d74-4c90-a52d-8959ed5bea58"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1698651749598,"stop":1698651775304}],"afters":[],"start":1698651749559,"stop":1698651805905}

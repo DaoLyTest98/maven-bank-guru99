@@ -1,0 +1,606 @@
+[2023-10-31 16:25:59,604 INFO bank.guru.user.RegisterAccount] - 
+[2023-10-31 16:25:59,866 INFO bank.guru.user.RegisterAccount] - Block adds
+[2023-10-31 16:26:01,629 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:26:01,774 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:26:02,047 INFO bank.guru.user.RegisterAccount] - Enter the email address without the username before the @ symbol
+[2023-10-31 16:26:02,237 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:26:02,350 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:26:02,413 INFO bank.guru.user.RegisterAccount] - Enter the email address without '@' symbol
+[2023-10-31 16:26:02,556 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:26:02,653 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:26:02,706 INFO bank.guru.user.RegisterAccount] - Enter the email address without Domain
+[2023-10-31 16:26:02,834 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:26:02,920 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:26:08,357 INFO bank.guru.user.RegisterAccount] - OS name = windows 11
+[2023-10-31 16:26:08,357 INFO bank.guru.user.RegisterAccount] - Driver instance name = chromedriver: chrome on windows (0b13b181f98ff6705585dc8e43a23c68)
+[2023-10-31 16:32:32,414 INFO bank.guru.user.RegisterAccount] - Click on the textlink 'Here' 
+[2023-10-31 16:32:32,636 INFO bank.guru.user.RegisterAccount] - Block adds
+[2023-10-31 16:32:35,360 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:32:35,501 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:32:35,717 INFO bank.guru.user.RegisterAccount] - Enter the email address without the username before the @ symbol
+[2023-10-31 16:32:35,916 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:32:36,024 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:32:36,083 INFO bank.guru.user.RegisterAccount] - Enter the email address without '@' symbol
+[2023-10-31 16:32:36,231 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:32:36,313 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:32:36,361 INFO bank.guru.user.RegisterAccount] - Enter the email address without Domain
+[2023-10-31 16:32:36,498 INFO bank.guru.user.RegisterAccount] - Click on the button Submit
+[2023-10-31 16:32:36,607 INFO bank.guru.user.RegisterAccount] - Verify text error
+[2023-10-31 16:32:41,529 INFO bank.guru.user.RegisterAccount] - OS name = windows 11
+[2023-10-31 16:32:41,529 INFO bank.guru.user.RegisterAccount] - Driver instance name = chromedriver: chrome on windows (04a34c8f3dc85284cf2b87d30c7ba95b)
+[2023-10-31 18:57:37,241 INFO bank.guru.user.LoginUser] - Leave the UserID field blank
+[2023-10-31 18:57:37,475 INFO bank.guru.user.LoginUser] - Enter the correct password
+[2023-10-31 18:57:37,722 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 18:58:46,698 INFO bank.guru.user.LoginUser] - Leave the UserID field blank
+[2023-10-31 18:58:46,895 INFO bank.guru.user.LoginUser] - Enter the correct password
+[2023-10-31 18:58:47,182 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 19:09:37,219 INFO bank.guru.user.LoginUser] - Leave the UserID field blank
+[2023-10-31 19:09:37,522 INFO bank.guru.user.LoginUser] - Enter the correct password
+[2023-10-31 19:09:37,754 INFO bank.guru.user.LoginUser] - Clear values entered in the password field
+[2023-10-31 19:09:37,835 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 19:09:38,102 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 19:09:38,244 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 19:09:38,375 INFO bank.guru.user.LoginUser] - Delete all values entered in the password field
+[2023-10-31 19:10:08,748 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 19:12:06,893 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 19:12:07,110 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 19:12:07,301 INFO bank.guru.user.LoginUser] - Delete all values entered in the password field
+[2023-10-31 19:12:37,764 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 19:14:34,975 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 19:14:35,184 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 19:14:35,433 INFO bank.guru.user.LoginUser] - Delete all values entered in the password field
+[2023-10-31 19:27:38,445 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 19:27:38,677 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 19:27:38,886 INFO bank.guru.user.LoginUser] - Delete all values entered in the password field
+[2023-10-31 19:27:38,965 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 20:51:23,392 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 20:52:34,765 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 20:54:04,922 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 20:54:05,346 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 20:54:05,714 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 20:54:06,259 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:02:31,604 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:02:32,083 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:02:32,285 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:02:32,824 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:02:32,850 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:02:33,331 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:02:34,103 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:02:34,286 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:02:34,823 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:04:09,966 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:04:10,259 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:04:10,445 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:04:10,992 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:04:11,016 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:04:11,311 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:04:12,411 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:04:12,565 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:04:12,972 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:04:12,987 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:04:12,987 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (995de82b632e5b7f443d6b0b4c77005e)
+[2023-10-31 21:04:13,011 INFO bank.guru.user.LoginUser] - unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=118.0.5993.118): User or Password is not valid
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [995de82b632e5b7f443d6b0b4c77005e, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56763}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56763/devtoo..., se:cdpVersion: 118.0.5993.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 995de82b632e5b7f443d6b0b4c77005e
+[2023-10-31 21:05:13,137 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:05:13,563 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:05:13,795 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:05:14,291 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:05:14,668 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:05:16,959 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:05:16,960 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (86802b3dee865d9c2d09e779d3c22374)
+[2023-10-31 21:05:43,613 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:05:44,036 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:05:44,228 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:05:44,825 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:05:45,120 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:05:46,579 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:05:46,579 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (853c4e43ceda6d13de482e4249511bf1)
+[2023-10-31 21:06:15,246 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:06:15,607 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:06:15,848 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:06:16,350 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:06:16,373 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:06:16,749 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:06:17,673 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:06:17,976 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:06:18,428 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:06:18,453 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:06:18,454 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (9f7fd9b9cacbe744cc277c34bc8dba80)
+[2023-10-31 21:06:18,492 INFO bank.guru.user.LoginUser] - unexpected alert open: {Alert text : User or Password is not valid}
+  (Session info: chrome=118.0.5993.118): User or Password is not valid
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9f7fd9b9cacbe744cc277c34bc8dba80, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57116}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57116/devtoo..., se:cdpVersion: 118.0.5993.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9f7fd9b9cacbe744cc277c34bc8dba80
+[2023-10-31 21:07:02,463 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:07:03,106 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:07:03,370 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:07:03,915 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:07:03,941 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:07:04,490 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:07:05,708 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:07:05,898 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:07:06,345 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:07:06,356 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:07:06,384 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:07:06,385 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (64ebae0d1262ea9b70aed3de1e4cc529)
+[2023-10-31 21:16:21,949 INFO bank.guru.user.LoginUser] - Leave the UserID field blank
+[2023-10-31 21:16:22,195 INFO bank.guru.user.LoginUser] - Enter the correct password
+[2023-10-31 21:16:22,383 INFO bank.guru.user.LoginUser] - Clear values entered in the password field
+[2023-10-31 21:16:22,494 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 21:16:22,743 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 21:16:22,913 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:16:23,133 INFO bank.guru.user.LoginUser] - Delete all values entered in the password field
+[2023-10-31 21:16:23,201 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 21:16:23,300 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:16:23,464 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:16:23,583 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:16:24,009 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:16:24,049 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:16:24,064 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 21:16:25,779 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:16:25,931 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:16:26,369 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:16:26,376 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:16:26,393 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 21:16:27,646 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:16:27,774 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:16:28,945 INFO bank.guru.user.LoginUser] - Switch to the Home Page screen
+[2023-10-31 21:16:59,456 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:16:59,456 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (e9015da609c9acfb85040acde298e252)
+[2023-10-31 21:18:17,996 INFO bank.guru.user.LoginUser] - Leave the UserID field blank
+[2023-10-31 21:18:18,484 INFO bank.guru.user.LoginUser] - Enter the correct password
+[2023-10-31 21:18:18,689 INFO bank.guru.user.LoginUser] - Clear values entered in the password field
+[2023-10-31 21:18:18,803 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 21:18:19,189 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 21:18:19,349 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:18:19,522 INFO bank.guru.user.LoginUser] - Delete all values entered in the password field
+[2023-10-31 21:18:19,586 INFO bank.guru.user.LoginUser] - Verify error
+[2023-10-31 21:18:19,685 INFO bank.guru.user.LoginUser] - Enter the incorrect email
+[2023-10-31 21:18:19,885 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:18:20,078 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:18:21,134 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:18:21,154 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:18:21,177 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 21:18:22,667 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:18:22,994 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:18:23,520 INFO bank.guru.user.LoginUser] - Verify error alert
+[2023-10-31 21:18:23,529 INFO bank.guru.user.LoginUser] - Click on the button OK
+[2023-10-31 21:18:23,554 INFO bank.guru.user.LoginUser] - Enter the correct email
+[2023-10-31 21:18:25,125 INFO bank.guru.user.LoginUser] - Enter the password
+[2023-10-31 21:18:25,304 INFO bank.guru.user.LoginUser] - Click on the button Login
+[2023-10-31 21:18:26,581 INFO bank.guru.user.LoginUser] - Verify text success
+[2023-10-31 21:18:26,951 INFO bank.guru.user.LoginUser] - OS name = windows 11
+[2023-10-31 21:18:26,951 INFO bank.guru.user.LoginUser] - Driver instance name = chromedriver: chrome on windows (18a80a1d868c7979096734f8cd2851c9)
+[2023-11-01 11:21:13,108 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 11:31:34,302 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 11:32:43,180 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 11:32:43,401 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 11:32:43,577 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 11:32:44,590 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 11:33:55,580 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 11:33:55,903 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 11:33:56,111 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 11:33:57,091 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:41:14,973 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 17:41:15,335 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 17:41:15,704 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 17:41:16,780 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:41:16,888 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 17:41:17,629 INFO bank.guru.user.Manager] - Block Ads
+[2023-11-01 17:42:18,515 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 17:42:18,515 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (bce61c37e21bc997ed7082a8a3ba6388)
+[2023-11-01 17:43:34,610 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 17:43:34,801 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 17:43:34,932 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 17:43:35,917 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:43:35,979 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 17:43:36,597 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 17:43:36,816 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 17:43:36,816 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (a4a14e3483fc589cb3ddfe5a637ef352)
+[2023-11-01 17:52:02,348 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 17:52:02,517 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 17:52:02,668 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 17:52:03,563 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:52:03,649 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 17:52:04,293 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 17:52:04,334 INFO bank.guru.user.Manager] - Verify the text in the Customer Name label
+[2023-11-01 17:52:04,664 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 17:52:04,664 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (81a2a4f11ac1833d9ac0857c8152d63a)
+[2023-11-01 17:53:11,944 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 17:53:12,153 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 17:53:12,276 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 17:53:13,199 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:53:13,253 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 17:53:13,857 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 17:53:13,900 INFO bank.guru.user.Manager] - Verify the text in the Customer Name label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the Gender label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the Date of Birth label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the Address label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the City label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the State label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the PIN label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the Mobile Number label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the E-mail label
+[2023-11-01 17:53:13,950 INFO bank.guru.user.Manager] - Verify the text in the Password label
+[2023-11-01 17:53:14,076 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 17:53:14,076 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (f0eda61b1db2a2fd94d88189f9ed27e1)
+[2023-11-01 17:56:01,362 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 17:56:01,545 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 17:56:01,648 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 17:56:02,575 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:56:02,628 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 17:56:03,206 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 17:56:03,255 INFO bank.guru.user.Manager] - Verify the text in the Customer Name label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the Gender label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the Date of Birth label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the Address label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the City label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the State label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the PIN label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the Mobile Number label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the E-mail label
+[2023-11-01 17:56:03,304 INFO bank.guru.user.Manager] - Verify the text in the Password label
+[2023-11-01 17:56:03,420 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 17:56:03,421 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (f745ce87161b59316ceb25bc747d1f40)
+[2023-11-01 17:58:58,416 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 17:58:58,577 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 17:58:58,701 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 17:58:59,859 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 17:58:59,932 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 17:59:00,075 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 17:59:03,403 INFO bank.guru.user.Manager] - Verify the text in the Customer Name label
+[2023-11-01 17:59:03,459 INFO bank.guru.user.Manager] - Verify the text in the Gender label
+[2023-11-01 17:59:03,496 INFO bank.guru.user.Manager] - Verify the text in the Date of Birth label
+[2023-11-01 17:59:03,538 INFO bank.guru.user.Manager] - Verify the text in the Address label
+[2023-11-01 17:59:03,578 INFO bank.guru.user.Manager] - Verify the text in the City label
+[2023-11-01 17:59:03,620 INFO bank.guru.user.Manager] - Verify the text in the State label
+[2023-11-01 17:59:03,660 INFO bank.guru.user.Manager] - Verify the text in the PIN label
+[2023-11-01 17:59:03,693 INFO bank.guru.user.Manager] - Verify the text in the Mobile Number label
+[2023-11-01 17:59:03,728 INFO bank.guru.user.Manager] - Verify the text in the E-mail label
+[2023-11-01 17:59:03,761 INFO bank.guru.user.Manager] - Verify the text in the Password label
+[2023-11-01 17:59:03,935 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 17:59:03,935 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (0a8c219dbd7677b67f0e4dd92d39aa94)
+[2023-11-01 18:00:43,240 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 18:00:46,751 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 18:00:46,851 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 18:00:47,782 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 18:00:47,871 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 18:00:48,431 INFO bank.guru.user.Manager] - Block Ads
+[2023-11-01 18:01:19,134 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 18:01:19,135 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (9dfcae640561f3640e4c3b5fd0aa08a9)
+[2023-11-01 18:15:27,419 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 18:15:27,600 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 18:15:27,715 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 18:15:28,655 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 18:15:28,745 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 18:15:29,326 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 18:15:29,381 INFO bank.guru.user.Manager] - Verify the text in the Customer Name label
+[2023-11-01 18:15:29,442 INFO bank.guru.user.Manager] - Verify the text in the Gender label
+[2023-11-01 18:15:29,477 INFO bank.guru.user.Manager] - Verify the text in the Date of Birth label
+[2023-11-01 18:15:29,511 INFO bank.guru.user.Manager] - Verify the text in the Address label
+[2023-11-01 18:15:29,547 INFO bank.guru.user.Manager] - Verify the text in the City label
+[2023-11-01 18:15:29,648 INFO bank.guru.user.Manager] - Verify the text in the State label
+[2023-11-01 18:15:29,698 INFO bank.guru.user.Manager] - Verify the text in the PIN label
+[2023-11-01 18:15:29,732 INFO bank.guru.user.Manager] - Verify the text in the Mobile Number label
+[2023-11-01 18:15:29,811 INFO bank.guru.user.Manager] - Verify the text in the E-mail label
+[2023-11-01 18:15:29,848 INFO bank.guru.user.Manager] - Verify the text in the Password label
+[2023-11-01 18:15:30,047 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 18:15:30,047 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (df59a24aeac8d50393780411ba8a1937)
+[2023-11-01 18:47:31,230 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 18:47:31,391 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 18:47:31,491 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 18:47:32,366 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 18:47:32,454 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 18:47:32,751 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 18:47:32,751 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (a08b992a436cbc286a1081e12820ae9c)
+[2023-11-01 19:37:58,123 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:37:58,360 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:37:58,495 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:38:00,099 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:38:00,213 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:38:00,690 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:38:00,691 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (afb87a0f7a4a185ff0e46b2e7c6dc65a)
+[2023-11-01 19:38:34,718 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:38:34,911 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:38:35,048 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:38:36,130 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:38:36,197 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:38:36,613 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:38:36,613 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (cbbb77a820bc8c9390529dd8dbc64bde)
+[2023-11-01 19:41:18,468 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:41:18,678 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:41:18,784 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:41:19,922 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:41:20,173 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:41:20,834 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:41:20,835 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (3e998204a85828a34863523aaefd4571)
+[2023-11-01 19:42:20,174 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:42:20,397 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:42:20,525 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:42:21,493 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:42:21,561 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:42:21,963 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:42:21,963 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (bd20b58b4dd89a1d134cf8230661c595)
+[2023-11-01 19:42:56,806 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:42:56,974 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:42:57,071 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:42:58,067 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:42:58,172 INFO bank.guru.user.Manager] - Click Customer Page Menu
+[2023-11-01 19:42:58,780 INFO bank.guru.user.Manager] - Verify text title
+[2023-11-01 19:42:58,833 INFO bank.guru.user.Manager] - Verify the text in the Customer Name label
+[2023-11-01 19:42:58,900 INFO bank.guru.user.Manager] - Verify the text in the Gender label
+[2023-11-01 19:42:58,939 INFO bank.guru.user.Manager] - Verify the text in the Date of Birth label
+[2023-11-01 19:42:58,999 INFO bank.guru.user.Manager] - Verify the text in the Address label
+[2023-11-01 19:42:59,050 INFO bank.guru.user.Manager] - Verify the text in the City label
+[2023-11-01 19:42:59,088 INFO bank.guru.user.Manager] - Verify the text in the State label
+[2023-11-01 19:42:59,122 INFO bank.guru.user.Manager] - Verify the text in the PIN label
+[2023-11-01 19:42:59,156 INFO bank.guru.user.Manager] - Verify the text in the Mobile Number label
+[2023-11-01 19:42:59,191 INFO bank.guru.user.Manager] - Verify the text in the E-mail label
+[2023-11-01 19:42:59,272 INFO bank.guru.user.Manager] - Verify the text in the Password label
+[2023-11-01 19:42:59,496 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:42:59,496 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (bd6b29d1d47fbe51092cf3e32f41320b)
+[2023-11-01 19:45:09,184 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:45:09,362 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:45:09,480 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:45:10,415 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:45:11,117 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:45:11,665 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:45:11,665 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (d279f23445f37429ce2cef534d55f1cf)
+[2023-11-01 19:45:57,023 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:45:57,188 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:45:57,293 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:45:58,254 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:45:58,896 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:46:29,616 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:46:29,616 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (de23e7c8ac23823b1477eb1ff438e29e)
+[2023-11-01 19:57:17,777 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 19:57:18,010 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 19:57:18,125 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 19:57:19,173 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 19:57:19,828 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 19:57:50,280 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 19:57:50,280 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (f2ffe06c9e8705e3eb5c6ec39bee2c0d)
+[2023-11-01 20:02:55,404 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:02:55,548 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:02:55,637 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:02:56,568 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:02:57,103 INFO bank.guru.user.Manager] - Leak the Customer Name Field blank
+[2023-11-01 20:02:57,103 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:02:57,185 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:03:27,515 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:03:27,515 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (1739f2b108fc467f6533969788236eb2)
+[2023-11-01 20:16:59,895 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:17:00,061 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:17:00,153 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:17:01,078 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:17:01,640 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:17:01,718 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:17:01,995 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:17:01,995 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (416f7213e516307d7c7d3d80229378d2)
+[2023-11-01 20:20:59,398 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:20:59,609 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:20:59,713 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:21:00,631 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:21:01,240 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:21:01,374 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:21:01,725 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:21:01,725 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (4593a2aa56c3c1e5f72249317d5d6bd5)
+[2023-11-01 20:34:39,451 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:34:39,669 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:34:39,784 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:34:40,651 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:34:41,306 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:34:41,402 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:34:41,460 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:34:41,673 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:34:41,673 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (b4ea7c9a06a41a2f48f3fe30811820a4)
+[2023-11-01 20:40:56,769 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:40:56,934 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:40:57,066 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:40:58,038 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:40:58,706 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:40:58,841 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:40:58,906 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:40:59,116 INFO bank.guru.user.Manager] - Enter numeic value in Customer Name Field
+[2023-11-01 20:40:59,217 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:40:59,495 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:40:59,495 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (586982e510a50f4021fae14544228277)
+[2023-11-01 20:45:29,589 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:46:34,289 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:46:34,467 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:46:34,576 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:46:35,531 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:46:36,195 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:46:36,294 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:46:36,347 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:46:36,542 INFO bank.guru.user.Manager] - Enter numeic value in Customer Name Field
+[2023-11-01 20:46:36,671 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:46:36,729 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:46:36,730 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (c446c3e8b9658dc7b4fb5da712a39fd8)
+[2023-11-01 20:47:31,831 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:47:31,979 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:47:32,068 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:47:32,984 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:47:33,586 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:47:33,702 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:47:33,768 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:47:33,962 INFO bank.guru.user.Manager] - Enter numeic value in Customer Name Field
+[2023-11-01 20:47:34,065 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:47:34,116 INFO bank.guru.user.Manager] - Enter numeic value in Customer Name Field
+[2023-11-01 20:47:34,200 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:47:34,231 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:47:34,231 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (fb713c25d85bdd130dcc4c70c1e5aabc)
+[2023-11-01 20:50:41,453 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:50:41,667 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:50:41,778 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:50:42,658 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:50:43,396 INFO bank.guru.user.Manager] - Leak the Customer Name field blank 
+[2023-11-01 20:50:43,499 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 20:50:43,565 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:50:43,791 INFO bank.guru.user.Manager] - Enter numeic value in Customer Name Field
+[2023-11-01 20:50:43,896 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:50:43,945 INFO bank.guru.user.Manager] - Enter special character value in Customer Name Field
+[2023-11-01 20:50:44,022 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:50:44,055 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 20:50:44,129 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 20:50:44,160 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:50:44,160 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (ba708bf61f0768f8dfc445564215be77)
+[2023-11-01 20:54:42,028 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:54:42,192 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:54:42,287 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:54:43,238 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:54:43,833 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 20:54:43,941 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 20:55:14,232 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:55:14,232 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (1bf3d91474c9fdff5cec560110d8559e)
+[2023-11-01 20:56:19,956 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 20:56:20,116 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 20:56:20,232 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 20:56:21,207 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 20:56:22,631 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 20:56:53,136 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 20:56:53,136 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (edcb62cbd9c1147e750c7d5675dc8a8d)
+[2023-11-01 21:02:30,333 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:02:30,554 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:02:30,670 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:02:31,567 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:02:32,193 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:02:32,307 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:03:02,656 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:03:02,656 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (5966adbff9a0647a501b78bb9e938343)
+[2023-11-01 21:04:21,643 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:04:21,811 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:04:21,912 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:04:22,864 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:04:23,494 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:04:23,617 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:04:53,939 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:04:53,940 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (e699789e78244f26188c12ed0af49fcf)
+[2023-11-01 21:05:43,711 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:05:43,888 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:05:43,988 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:05:44,892 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:05:45,510 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:05:45,613 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:06:15,919 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:06:15,920 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (7f4a981a029e06acf5f46addf9478398)
+[2023-11-01 21:09:40,091 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:09:40,277 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:09:40,390 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:09:41,309 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:09:41,934 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:09:42,091 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:10:12,411 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:10:12,412 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (b858a0ec827178004dfa401907c3a303)
+[2023-11-01 21:12:53,923 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:12:54,165 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:12:54,278 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:12:55,225 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:12:55,906 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:12:56,055 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:13:26,384 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:13:26,384 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (f52ba7533d46635b3f82c0e7e43fb196)
+[2023-11-01 21:14:34,133 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:14:34,525 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:14:34,658 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:14:35,559 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:14:36,209 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:14:36,364 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:15:06,718 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:15:06,718 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (68308093a7a1638f5fc53d0c2e32968a)
+[2023-11-01 21:23:56,499 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:23:56,666 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:23:56,763 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:23:57,686 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:23:58,339 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:23:58,427 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:24:28,752 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:24:28,752 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (ef1ec9d0927a5deb7a50887a44ce1425)
+[2023-11-01 21:25:32,112 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:25:32,310 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:25:32,422 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:25:33,365 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:25:34,040 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:25:34,197 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:25:34,415 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 21:25:34,482 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 21:25:34,807 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:25:34,807 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (68b2d4141a90e77c64521dd558bc3d22)
+[2023-11-01 21:26:18,818 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:26:19,014 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:26:19,162 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:26:21,436 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:26:21,624 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:26:25,192 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:26:55,553 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:26:55,553 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (15397623c6c2825e351a9d470e5536a1)
+[2023-11-01 21:28:16,847 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:28:17,021 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:28:17,156 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:28:18,164 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:28:18,836 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:28:18,954 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:28:19,279 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:28:19,279 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (028f7773d64446a08b51df1885e60dad)
+[2023-11-01 21:32:36,467 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:32:36,644 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:32:36,743 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:32:37,755 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:32:38,382 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:32:38,500 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:33:08,615 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:33:08,615 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (9d63df69d04f271d8d0c23af16c37ccd)
+[2023-11-01 21:33:08,618 INFO bank.guru.user.Manager] - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=118.0.5993.118)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d63df69d04f271d8d0c23af16c37ccd, deleteAllCookies {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 118.0.5993.118, chrome: {chromedriverVersion: 118.0.5993.70 (e52f33f30b91..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57234}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57234/devtoo..., se:cdpVersion: 118.0.5993.118, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d63df69d04f271d8d0c23af16c37ccd
+[2023-11-01 21:33:54,703 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:33:54,870 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:33:54,965 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:33:55,915 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:33:56,573 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:33:56,675 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:34:27,051 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:34:27,052 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (71ec34e5f423efb913ca3b6a4213ee23)
+[2023-11-01 21:37:47,934 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:37:48,077 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:37:48,176 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:37:49,377 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:37:50,004 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:37:50,107 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:37:50,389 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:37:50,389 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (13103a34066c6628a457019baf08c911)
+[2023-11-01 21:38:53,554 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:38:53,708 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:38:53,803 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:38:54,767 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:38:55,435 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:38:55,535 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:38:55,621 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 21:38:55,692 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 21:38:56,060 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:38:56,061 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (730a8119ae341bc7836ce336637059d3)
+[2023-11-01 21:40:00,722 INFO bank.guru.user.Manager] - Enter the correct email
+[2023-11-01 21:40:00,995 INFO bank.guru.user.Manager] - Enter the password
+[2023-11-01 21:40:01,094 INFO bank.guru.user.Manager] - Click on the button Login
+[2023-11-01 21:40:02,158 INFO bank.guru.user.Manager] - Verify text success
+[2023-11-01 21:40:02,816 INFO bank.guru.user.Manager] - Enter First character as blank space
+[2023-11-01 21:40:02,923 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+[2023-11-01 21:40:03,023 INFO bank.guru.user.Manager] - Click button Tab
+[2023-11-01 21:40:03,355 INFO bank.guru.user.Manager] - Verify error message
+[2023-11-01 21:40:03,520 INFO bank.guru.user.Manager] - OS name = windows 11
+[2023-11-01 21:40:03,520 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (1991757bb8262a2da8b0a83ba6b49eba)
