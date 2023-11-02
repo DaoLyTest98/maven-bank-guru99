@@ -3,15 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="bank.guru.user.RegisterAccount">
+      <class name="bank.guru.user.Manager">
         <methods>
-          <include name="TC_01_Email_Blank"/>
           <include name="beforeClass"/>
-          <include name="TC_02_Email_Without_Username"/>
-          <include name="TC_05_SignUpAccountSuccess"/>
+          <include name="afterClass"/>
+          <include name="TC_36_Rest_Button"/>
           <include name="initBeforeSuite"/>
         </methods>
-      </class> <!-- bank.guru.user.RegisterAccount -->
+      </class> <!-- bank.guru.user.Manager -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

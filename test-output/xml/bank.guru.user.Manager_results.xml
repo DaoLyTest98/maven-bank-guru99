@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.238">
+           time="5.519">
   <properties />
   
   
-            <testcase name="TC_07_Date_Of_Birth_Blank" time="1.238" classname="bank.guru.user.Manager" />
+            <testcase name="TC_37_Register_Successful" time="5.519" classname="bank.guru.user.Manager" />
       
 </testsuite>

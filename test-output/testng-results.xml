@@ -2,56 +2,76 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[[2023-11-01 21:40:00,722 INFO bank.guru.user.Manager] - Enter the correct email
+      <![CDATA[[2023-11-02 18:53:21,915 INFO bank.guru.user.Manager] - Enter the correct email
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:00,995 INFO bank.guru.user.Manager] - Enter the password
+      <![CDATA[[2023-11-02 18:53:22,058 INFO bank.guru.user.Manager] - Enter the password
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:01,094 INFO bank.guru.user.Manager] - Click on the button Login
+      <![CDATA[[2023-11-02 18:53:22,146 INFO bank.guru.user.Manager] - Click on the button Login
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:02,158 INFO bank.guru.user.Manager] - Verify text success
+      <![CDATA[[2023-11-02 18:53:23,555 INFO bank.guru.user.Manager] - Enter the correct value in the Customer Name field
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:02,816 INFO bank.guru.user.Manager] - Enter First character as blank space
+      <![CDATA[[2023-11-02 18:53:26,834 INFO bank.guru.user.Manager] - Enter the correct value in the Date of Birth field
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:02,923 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+      <![CDATA[[2023-11-02 18:53:26,921 INFO bank.guru.user.Manager] - Enter the correct value in the Address field
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:03,023 INFO bank.guru.user.Manager] - Click button Tab
+      <![CDATA[[2023-11-02 18:53:27,022 INFO bank.guru.user.Manager] - Enter the correct value in the City field
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:03,355 INFO bank.guru.user.Manager] - Verify error message
+      <![CDATA[[2023-11-02 18:53:27,105 INFO bank.guru.user.Manager] - Enter the correct value in the State field
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:03,520 INFO bank.guru.user.Manager] - OS name = windows 11
+      <![CDATA[[2023-11-02 18:53:27,179 INFO bank.guru.user.Manager] - Enter the correct value in the PIN field
 ]]>
     </line>
     <line>
-      <![CDATA[[2023-11-01 21:40:03,520 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (1991757bb8262a2da8b0a83ba6b49eba)
+      <![CDATA[[2023-11-02 18:53:27,254 INFO bank.guru.user.Manager] - Enter the correct value in the Mobile Number field
+]]>
+    </line>
+    <line>
+      <![CDATA[[2023-11-02 18:53:27,342 INFO bank.guru.user.Manager] - Enter the correct value in the E-mail field
+]]>
+    </line>
+    <line>
+      <![CDATA[[2023-11-02 18:53:27,456 INFO bank.guru.user.Manager] - Enter the correct value in the Password field
+]]>
+    </line>
+    <line>
+      <![CDATA[[2023-11-02 18:53:27,531 INFO bank.guru.user.Manager] - Click button Submit
+]]>
+    </line>
+    <line>
+      <![CDATA[[2023-11-02 18:53:28,553 INFO bank.guru.user.Manager] - Verify text successful
+]]>
+    </line>
+    <line>
+      <![CDATA[[2023-11-02 18:53:28,590 INFO bank.guru.user.Manager] - Verify text value
 ]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-11-01T12:39:36Z" name="NopCommerce-User" finished-at="2023-11-01T12:40:03Z" duration-ms="27327">
+  <suite started-at="2023-11-02T09:52:57Z" name="NopCommerce-User" finished-at="2023-11-02T09:53:28Z" duration-ms="31165">
     <groups>
     </groups>
-    <test started-at="2023-11-01T12:39:36Z" name="Run on Headless Chrome" finished-at="2023-11-01T12:40:03Z" duration-ms="27327">
+    <test started-at="2023-11-02T09:52:57Z" name="Run on Headless Chrome" finished-at="2023-11-02T09:53:28Z" duration-ms="31165">
       <class name="bank.guru.user.Manager">
-        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:bank.guru.user.Manager@59901c4d]" started-at="2023-11-01T12:39:36Z" name="initBeforeSuite" finished-at="2023-11-01T12:39:36Z" duration-ms="33" status="PASS">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:bank.guru.user.Manager@72456279]" started-at="2023-11-02T09:52:57Z" name="initBeforeSuite" finished-at="2023-11-02T09:52:57Z" duration-ms="32" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initBeforeSuite -->
-        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:bank.guru.user.Manager@59901c4d]" started-at="2023-11-01T12:39:36Z" name="beforeClass" finished-at="2023-11-01T12:40:02Z" duration-ms="25638" status="PASS">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:bank.guru.user.Manager@72456279]" started-at="2023-11-02T09:52:57Z" name="beforeClass" finished-at="2023-11-02T09:53:23Z" duration-ms="25526" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -61,53 +81,73 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[[2023-11-01 21:40:00,722 INFO bank.guru.user.Manager] - Enter the correct email
+              <![CDATA[[2023-11-02 18:53:21,915 INFO bank.guru.user.Manager] - Enter the correct email
 ]]>
             </line>
             <line>
-              <![CDATA[[2023-11-01 21:40:00,995 INFO bank.guru.user.Manager] - Enter the password
+              <![CDATA[[2023-11-02 18:53:22,058 INFO bank.guru.user.Manager] - Enter the password
 ]]>
             </line>
             <line>
-              <![CDATA[[2023-11-01 21:40:01,094 INFO bank.guru.user.Manager] - Click on the button Login
-]]>
-            </line>
-            <line>
-              <![CDATA[[2023-11-01 21:40:02,158 INFO bank.guru.user.Manager] - Verify text success
+              <![CDATA[[2023-11-02 18:53:22,146 INFO bank.guru.user.Manager] - Click on the button Login
 ]]>
             </line>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="TC_07_Date_Of_Birth_Blank()[pri:0, instance:bank.guru.user.Manager@59901c4d]" started-at="2023-11-01T12:40:02Z" name="TC_07_Date_Of_Birth_Blank" finished-at="2023-11-01T12:40:03Z" duration-ms="1238" status="PASS">
+        <test-method signature="TC_37_Register_Successful()[pri:0, instance:bank.guru.user.Manager@72456279]" started-at="2023-11-02T09:53:23Z" name="TC_37_Register_Successful" finished-at="2023-11-02T09:53:28Z" duration-ms="5519" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[[2023-11-01 21:40:02,816 INFO bank.guru.user.Manager] - Enter First character as blank space
+              <![CDATA[[2023-11-02 18:53:23,555 INFO bank.guru.user.Manager] - Enter the correct value in the Customer Name field
 ]]>
             </line>
             <line>
-              <![CDATA[[2023-11-01 21:40:02,923 INFO bank.guru.user.Manager] - Do not enter a value in Date of Birth field
+              <![CDATA[[2023-11-02 18:53:26,834 INFO bank.guru.user.Manager] - Enter the correct value in the Date of Birth field
 ]]>
             </line>
             <line>
-              <![CDATA[[2023-11-01 21:40:03,023 INFO bank.guru.user.Manager] - Click button Tab
+              <![CDATA[[2023-11-02 18:53:26,921 INFO bank.guru.user.Manager] - Enter the correct value in the Address field
 ]]>
             </line>
             <line>
-              <![CDATA[[2023-11-01 21:40:03,355 INFO bank.guru.user.Manager] - Verify error message
+              <![CDATA[[2023-11-02 18:53:27,022 INFO bank.guru.user.Manager] - Enter the correct value in the City field
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:27,105 INFO bank.guru.user.Manager] - Enter the correct value in the State field
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:27,179 INFO bank.guru.user.Manager] - Enter the correct value in the PIN field
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:27,254 INFO bank.guru.user.Manager] - Enter the correct value in the Mobile Number field
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:27,342 INFO bank.guru.user.Manager] - Enter the correct value in the E-mail field
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:27,456 INFO bank.guru.user.Manager] - Enter the correct value in the Password field
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:27,531 INFO bank.guru.user.Manager] - Click button Submit
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:28,553 INFO bank.guru.user.Manager] - Verify text successful
+]]>
+            </line>
+            <line>
+              <![CDATA[[2023-11-02 18:53:28,590 INFO bank.guru.user.Manager] - Verify text value
 ]]>
             </line>
           </reporter-output>
-        </test-method> <!-- TC_07_Date_Of_Birth_Blank -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:bank.guru.user.Manager@59901c4d]" started-at="2023-11-01T12:40:03Z" name="afterClass" finished-at="2023-11-01T12:40:03Z" duration-ms="307" status="PASS">
+        </test-method> <!-- TC_37_Register_Successful -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:bank.guru.user.Manager@72456279]" started-at="2023-11-02T09:53:28Z" name="afterClass" finished-at="2023-11-02T09:53:28Z" duration-ms="1" status="PASS">
           <reporter-output>
-            <line>
-              <![CDATA[[2023-11-01 21:40:03,520 INFO bank.guru.user.Manager] - OS name = windows 11
-]]>
-            </line>
-            <line>
-              <![CDATA[[2023-11-01 21:40:03,520 INFO bank.guru.user.Manager] - Driver instance name = chromedriver: chrome on windows (1991757bb8262a2da8b0a83ba6b49eba)
-]]>
-            </line>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- bank.guru.user.Manager -->
