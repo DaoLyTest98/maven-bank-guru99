@@ -18,7 +18,7 @@ import pageObject.Guru.LoginPageObject;
 import pageObject.Guru.ManagerPageObject;
 import pageObject.Guru.NewCustomerPageObject;
 
-public class Manager extends BaseTest{
+public class NewCustomer extends BaseTest{
 	
 	@Parameters("browser")
 	@BeforeClass
