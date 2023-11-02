@@ -12,7 +12,7 @@
     <classes>
       <class name="bank.guru.user.Manager">
         <methods>
-          <include name="TC_07_Date_Of_Birth_Blank"/>
+          <include name="TC_37_Register_Successful"/>
           <include name="beforeClass"/>
           <include name="afterClass"/>
           <include name="initBeforeSuite"/>
