@@ -19,8 +19,8 @@ public class NewCustomerPageObject extends BasePage {
 	}
 
 	public String getTextTitle() {
-		waitForElementVisible(driver, NewCustomerPageUI.TITLE_TEXT);
-		return getElementText(driver, NewCustomerPageUI.TITLE_TEXT);
+		waitForElementVisible(driver, CommonPageUI.TITLE_TEXT);
+		return getElementText(driver, CommonPageUI.TITLE_TEXT);
 	}
 
 	public boolean isDisplaysTextLabel(String name) {
@@ -59,8 +59,8 @@ public class NewCustomerPageObject extends BasePage {
 	}
 
 	public String getTextNewCustomerMessage(String fieldName) {
-		waitForElementVisible(driver, CommonPageUI.DYNAMIC_NEW_CUSTOMER_MESSAGE, fieldName);
-		return getElementText(driver, CommonPageUI.DYNAMIC_NEW_CUSTOMER_MESSAGE, fieldName);
+		waitForElementVisible(driver, CommonPageUI.DYNAMIC_MESSAGE, fieldName);
+		return getElementText(driver, CommonPageUI.DYNAMIC_MESSAGE, fieldName);
 	}
 
 	public String getTextAddressMessage(String fieldName) {

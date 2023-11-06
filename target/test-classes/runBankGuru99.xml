@@ -12,7 +12,7 @@
 	<test name="Run on Headless Chrome">
 		<parameter name="browser" value="chrome"></parameter>
 		<classes>
-			<class name="bank.guru.user.Manager" />
+			<class name="bank.guru.user.NewAccount" />
 		</classes>
 	</test>
 </suite>

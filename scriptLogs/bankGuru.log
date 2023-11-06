@@ -1791,3 +1791,1235 @@ Session ID: e17cb718d2ed65f68f15b70e032cdc22
 [2023-11-02 18:53:27,531 INFO bank.guru.user.Manager] - Click button Submit
 [2023-11-02 18:53:28,553 INFO bank.guru.user.Manager] - Verify text successful
 [2023-11-02 18:53:28,590 INFO bank.guru.user.Manager] - Verify text value
+[2023-11-03 13:47:59,268 INFO bank.guru.user.NewCustomer] - Enter the correct email
+[2023-11-03 13:47:59,799 INFO bank.guru.user.NewCustomer] - Enter the password
+[2023-11-03 13:48:00,114 INFO bank.guru.user.NewCustomer] - Click on the button Login
+[2023-11-03 13:48:02,375 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:49:17,765 INFO bank.guru.user.NewCustomer] - Enter the correct email
+[2023-11-03 13:49:18,109 INFO bank.guru.user.NewCustomer] - Enter the password
+[2023-11-03 13:49:18,418 INFO bank.guru.user.NewCustomer] - Click on the button Login
+[2023-11-03 13:49:20,573 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:49:23,025 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:49:23,209 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:49:23,370 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:49:23,520 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:49:23,659 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:49:23,791 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:49:23,957 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:49:24,155 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:49:24,292 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:49:25,156 INFO bank.guru.user.NewCustomer] - Verify text successful
+[2023-11-03 13:51:18,824 INFO bank.guru.user.NewCustomer] - Enter the correct email
+[2023-11-03 13:51:19,091 INFO bank.guru.user.NewCustomer] - Enter the password
+[2023-11-03 13:51:19,337 INFO bank.guru.user.NewCustomer] - Click on the button Login
+[2023-11-03 13:51:21,142 INFO bank.guru.user.NewCustomer] - Click Customer Page Menu
+[2023-11-03 13:51:21,476 INFO bank.guru.user.NewCustomer] - Verify text title
+[2023-11-03 13:51:24,364 INFO bank.guru.user.NewCustomer] - Verify the text in the Customer Name label
+[2023-11-03 13:51:24,513 INFO bank.guru.user.NewCustomer] - Verify the text in the Gender label
+[2023-11-03 13:51:24,596 INFO bank.guru.user.NewCustomer] - Verify the text in the Date of Birth label
+[2023-11-03 13:51:24,679 INFO bank.guru.user.NewCustomer] - Verify the text in the Address label
+[2023-11-03 13:51:24,755 INFO bank.guru.user.NewCustomer] - Verify the text in the City label
+[2023-11-03 13:51:24,818 INFO bank.guru.user.NewCustomer] - Verify the text in the State label
+[2023-11-03 13:51:24,874 INFO bank.guru.user.NewCustomer] - Verify the text in the PIN label
+[2023-11-03 13:51:24,930 INFO bank.guru.user.NewCustomer] - Verify the text in the Mobile Number label
+[2023-11-03 13:51:24,985 INFO bank.guru.user.NewCustomer] - Verify the text in the E-mail label
+[2023-11-03 13:51:25,040 INFO bank.guru.user.NewCustomer] - Verify the text in the Password label
+[2023-11-03 13:51:25,279 INFO bank.guru.user.NewCustomer] - Leak the Customer Name field blank 
+[2023-11-03 13:51:25,440 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:25,559 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:25,796 INFO bank.guru.user.NewCustomer] - Enter numeic value in Customer Name Field
+[2023-11-03 13:51:25,942 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:26,011 INFO bank.guru.user.NewCustomer] - Enter special character value in Customer Name Field
+[2023-11-03 13:51:26,175 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:26,236 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:26,389 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:26,447 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:26,603 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:26,744 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:26,857 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:26,928 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:27,085 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:27,217 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:27,312 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:27,375 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:27,522 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:27,658 INFO bank.guru.user.NewCustomer] - Do not enter a value in Address field
+[2023-11-03 13:51:27,775 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:27,845 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:27,902 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:28,037 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:28,191 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:28,321 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:28,390 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:28,443 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:28,577 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:28,704 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:28,836 INFO bank.guru.user.NewCustomer] - Do not enter a value in City field
+[2023-11-03 13:51:28,958 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:29,026 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:29,089 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:29,226 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:29,352 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:29,486 INFO bank.guru.user.NewCustomer] - Enter numeic value in City Field
+[2023-11-03 13:51:29,613 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:29,676 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:29,726 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:29,869 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:30,011 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:30,163 INFO bank.guru.user.NewCustomer] - Enter special character value in City Field
+[2023-11-03 13:51:30,338 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:30,427 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:30,491 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:30,650 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:51:30,777 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:30,919 INFO bank.guru.user.NewCustomer] - Do not enter a value in City field
+[2023-11-03 13:51:31,057 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:31,119 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:31,168 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:31,303 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:31,437 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:31,567 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:31,700 INFO bank.guru.user.NewCustomer] - Do not enter a value in State field
+[2023-11-03 13:51:31,834 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:31,909 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:31,973 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:32,117 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:32,246 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:32,373 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:32,499 INFO bank.guru.user.NewCustomer] - Enter numeic value in State Field
+[2023-11-03 13:51:32,613 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:32,679 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:32,727 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:32,878 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:33,009 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:33,158 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:33,320 INFO bank.guru.user.NewCustomer] - Enter special character value in State Field
+[2023-11-03 13:51:33,446 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:33,517 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:33,581 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:33,720 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:33,851 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:33,986 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:34,114 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:34,246 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:34,316 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:34,369 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:34,505 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:34,643 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:34,775 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:34,911 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:35,053 INFO bank.guru.user.NewCustomer] - Do not enter a value in PIN field
+[2023-11-03 13:51:35,178 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:35,264 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:35,322 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:35,461 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:35,606 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:35,740 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:35,879 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:36,049 INFO bank.guru.user.NewCustomer] - Enter Character value in PIN Field
+[2023-11-03 13:51:36,208 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:36,290 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:36,363 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:36,537 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:36,696 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:36,872 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:37,050 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:37,206 INFO bank.guru.user.NewCustomer] - Enter less than 6 digit in PIN Field
+[2023-11-03 13:51:37,354 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:37,428 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:37,494 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:37,677 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:37,824 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:37,973 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:38,133 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:38,290 INFO bank.guru.user.NewCustomer] - Enter Special Character in PIN File 
+[2023-11-03 13:51:38,444 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:38,519 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:38,573 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:38,718 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:38,837 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:38,970 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:39,112 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:39,258 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:39,397 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:39,461 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:39,512 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:39,680 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:39,832 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:39,982 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:40,152 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:40,303 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:40,457 INFO bank.guru.user.NewCustomer] - Do not enter a value in Mobile Number field
+[2023-11-03 13:51:40,589 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:40,658 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:40,712 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:40,890 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:41,052 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:41,204 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:41,341 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:41,471 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:41,606 INFO bank.guru.user.NewCustomer] - Enter Character value in Mobile Number Field
+[2023-11-03 13:51:41,742 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:41,808 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:41,863 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:42,007 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:42,141 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:42,265 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:42,402 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:42,537 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:42,677 INFO bank.guru.user.NewCustomer] - Enter Special Character in Mobile Number File 
+[2023-11-03 13:51:42,806 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:42,872 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:42,917 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:43,061 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:43,204 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:43,353 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:43,488 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:43,615 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:43,752 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:43,910 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:43,980 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:44,031 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:44,186 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:44,321 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:44,449 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:44,582 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:44,723 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:44,858 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:44,990 INFO bank.guru.user.NewCustomer] - Do not enter a value in Email field
+[2023-11-03 13:51:45,097 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:45,160 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:45,218 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:45,363 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:45,502 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:45,635 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:45,760 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:45,900 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:46,031 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:46,173 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:51:46,301 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:46,371 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:46,418 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:46,563 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:46,698 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:46,821 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:46,966 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:47,161 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:47,320 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:47,480 INFO bank.guru.user.NewCustomer] - Enter the email address without the username before the @ symbol
+[2023-11-03 13:51:47,631 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:47,695 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:47,743 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:47,881 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:48,007 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:48,129 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:48,262 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:48,393 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:48,523 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:48,658 INFO bank.guru.user.NewCustomer] - Enter the email address without '@' symbol
+[2023-11-03 13:51:48,786 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:48,861 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:48,914 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:49,043 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:49,159 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:49,291 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:49,451 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:49,608 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:49,746 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:49,890 INFO bank.guru.user.NewCustomer] - Enter the missing domain in the email address
+[2023-11-03 13:51:50,052 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:50,122 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:50,173 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:50,302 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:50,436 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:50,573 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:50,725 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:50,869 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:51,011 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:51,154 INFO bank.guru.user.NewCustomer] - Enter the missing domain in the email address
+[2023-11-03 13:51:51,318 INFO bank.guru.user.NewCustomer] - Do not enter a value in Password field
+[2023-11-03 13:51:51,427 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:51,484 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:51:51,540 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:51,692 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:51,830 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:51,965 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:52,095 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:52,228 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:52,349 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:52,492 INFO bank.guru.user.NewCustomer] - Enter the missing domain in the email address
+[2023-11-03 13:51:52,680 INFO bank.guru.user.NewCustomer] - Do not enter a value in Password field
+[2023-11-03 13:51:52,814 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:52,882 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:51:53,012 INFO bank.guru.user.NewCustomer] - Verify text Alert
+[2023-11-03 13:51:53,025 INFO bank.guru.user.NewCustomer] - Click on the button OK
+[2023-11-03 13:51:53,037 INFO bank.guru.user.NewCustomer] - Enter the incorrect value in the Customer Name field
+[2023-11-03 13:51:53,212 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:53,368 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:53,514 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:53,646 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:53,783 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:53,941 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:54,087 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:51:54,350 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:51:54,491 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:51:54,567 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:51:54,663 INFO bank.guru.user.NewCustomer] - Verify text Alert
+[2023-11-03 13:51:54,669 INFO bank.guru.user.NewCustomer] - Click on the button OK
+[2023-11-03 13:51:54,682 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:54,832 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:54,997 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:55,150 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:55,292 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:55,430 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:55,573 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:55,719 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:51:55,881 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:51:56,018 INFO bank.guru.user.NewCustomer] - Click button Reset
+[2023-11-03 13:51:56,130 INFO bank.guru.user.NewCustomer] - Verify value input
+[2023-11-03 13:51:56,570 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:51:56,693 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:51:56,801 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:51:56,911 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:51:57,047 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:51:57,191 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:51:57,372 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:51:57,544 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:51:57,710 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:51:57,833 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:51:58,905 INFO bank.guru.user.NewCustomer] - Verify text successful
+[2023-11-03 13:51:58,973 INFO bank.guru.user.NewCustomer] - Verify text value
+[2023-11-03 13:53:17,119 INFO bank.guru.user.NewCustomer] - Enter the correct email
+[2023-11-03 13:53:17,370 INFO bank.guru.user.NewCustomer] - Enter the password
+[2023-11-03 13:53:17,634 INFO bank.guru.user.NewCustomer] - Click on the button Login
+[2023-11-03 13:53:19,496 INFO bank.guru.user.NewCustomer] - Click Customer Page Menu
+[2023-11-03 13:53:19,726 INFO bank.guru.user.NewCustomer] - Block Ads
+[2023-11-03 13:53:21,134 INFO bank.guru.user.NewCustomer] - Verify text title
+[2023-11-03 13:53:21,276 INFO bank.guru.user.NewCustomer] - Verify the text in the Customer Name label
+[2023-11-03 13:53:21,359 INFO bank.guru.user.NewCustomer] - Verify the text in the Gender label
+[2023-11-03 13:53:21,440 INFO bank.guru.user.NewCustomer] - Verify the text in the Date of Birth label
+[2023-11-03 13:53:21,526 INFO bank.guru.user.NewCustomer] - Verify the text in the Address label
+[2023-11-03 13:53:21,611 INFO bank.guru.user.NewCustomer] - Verify the text in the City label
+[2023-11-03 13:53:21,688 INFO bank.guru.user.NewCustomer] - Verify the text in the State label
+[2023-11-03 13:53:21,767 INFO bank.guru.user.NewCustomer] - Verify the text in the PIN label
+[2023-11-03 13:53:21,841 INFO bank.guru.user.NewCustomer] - Verify the text in the Mobile Number label
+[2023-11-03 13:53:21,909 INFO bank.guru.user.NewCustomer] - Verify the text in the E-mail label
+[2023-11-03 13:53:21,973 INFO bank.guru.user.NewCustomer] - Verify the text in the Password label
+[2023-11-03 13:53:22,242 INFO bank.guru.user.NewCustomer] - Leak the Customer Name field blank 
+[2023-11-03 13:53:22,446 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:22,567 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:22,656 INFO bank.guru.user.NewCustomer] - Enter numeic value in Customer Name Field
+[2023-11-03 13:53:22,811 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:22,876 INFO bank.guru.user.NewCustomer] - Enter special character value in Customer Name Field
+[2023-11-03 13:53:23,052 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:23,118 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:23,289 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:23,361 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:23,526 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:23,676 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:23,778 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:23,855 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:24,001 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:24,150 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:24,241 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:24,293 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:24,434 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:24,585 INFO bank.guru.user.NewCustomer] - Do not enter a value in Address field
+[2023-11-03 13:53:24,700 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:24,765 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:24,823 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:24,959 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:25,094 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:25,214 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:25,280 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:25,332 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:25,460 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:25,575 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:25,691 INFO bank.guru.user.NewCustomer] - Do not enter a value in City field
+[2023-11-03 13:53:25,804 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:25,861 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:25,917 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:26,051 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:26,191 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:26,322 INFO bank.guru.user.NewCustomer] - Enter numeic value in City Field
+[2023-11-03 13:53:26,455 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:26,525 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:26,581 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:26,713 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:26,833 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:26,962 INFO bank.guru.user.NewCustomer] - Enter special character value in City Field
+[2023-11-03 13:53:27,089 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:27,153 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:27,200 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:27,330 INFO bank.guru.user.NewCustomer] - Do not enter a value in Date of Birth field
+[2023-11-03 13:53:27,473 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:27,587 INFO bank.guru.user.NewCustomer] - Do not enter a value in City field
+[2023-11-03 13:53:27,720 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:27,799 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:27,860 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:27,993 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:28,128 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:28,251 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:28,381 INFO bank.guru.user.NewCustomer] - Do not enter a value in State field
+[2023-11-03 13:53:28,509 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:28,578 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:28,635 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:28,752 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:28,871 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:28,995 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:29,119 INFO bank.guru.user.NewCustomer] - Enter numeic value in State Field
+[2023-11-03 13:53:29,237 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:29,300 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:29,352 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:29,487 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:29,637 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:29,794 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:29,943 INFO bank.guru.user.NewCustomer] - Enter special character value in State Field
+[2023-11-03 13:53:30,076 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:30,142 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:30,228 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:30,358 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:30,490 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:30,614 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:30,732 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:30,851 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:30,915 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:30,964 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:31,103 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:31,269 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:31,433 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:31,610 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:31,747 INFO bank.guru.user.NewCustomer] - Do not enter a value in PIN field
+[2023-11-03 13:53:31,896 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:31,973 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:32,035 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:32,216 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:32,376 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:32,510 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:32,651 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:32,818 INFO bank.guru.user.NewCustomer] - Enter Character value in PIN Field
+[2023-11-03 13:53:33,005 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:33,099 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:33,165 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:33,301 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:33,435 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:33,566 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:33,704 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:33,831 INFO bank.guru.user.NewCustomer] - Enter less than 6 digit in PIN Field
+[2023-11-03 13:53:33,963 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:34,026 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:34,083 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:34,248 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:34,399 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:34,537 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:34,683 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:34,828 INFO bank.guru.user.NewCustomer] - Enter Special Character in PIN File 
+[2023-11-03 13:53:34,988 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:35,077 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:35,145 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:35,321 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:35,525 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:35,675 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:35,829 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:35,981 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:36,141 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:36,227 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:36,287 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:36,451 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:36,598 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:36,717 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:36,868 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:37,010 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:37,171 INFO bank.guru.user.NewCustomer] - Do not enter a value in Mobile Number field
+[2023-11-03 13:53:37,321 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:37,398 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:37,457 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:37,606 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:37,768 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:37,903 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:38,052 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:38,193 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:38,344 INFO bank.guru.user.NewCustomer] - Enter Character value in Mobile Number Field
+[2023-11-03 13:53:38,495 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:38,578 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:38,634 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:38,762 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:38,890 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:39,035 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:39,183 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:39,312 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:39,459 INFO bank.guru.user.NewCustomer] - Enter Special Character in Mobile Number File 
+[2023-11-03 13:53:39,593 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:39,657 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:39,700 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:39,826 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:39,968 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:40,092 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:40,217 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:40,329 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:40,444 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:40,568 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:40,644 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:40,704 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:40,855 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:40,992 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:41,122 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:41,259 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:41,388 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:41,530 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:41,662 INFO bank.guru.user.NewCustomer] - Do not enter a value in Email field
+[2023-11-03 13:53:41,777 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:41,845 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:41,906 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:42,050 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:42,197 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:42,321 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:42,461 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:42,611 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:42,767 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:42,900 INFO bank.guru.user.NewCustomer] - Enter First character as blank space
+[2023-11-03 13:53:43,046 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:43,112 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:43,157 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:43,278 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:43,392 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:43,495 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:43,634 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:43,787 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:43,925 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:44,064 INFO bank.guru.user.NewCustomer] - Enter the email address without the username before the @ symbol
+[2023-11-03 13:53:44,200 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:44,268 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:44,316 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:44,431 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:44,541 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:44,658 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:44,769 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:44,885 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:45,000 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:45,118 INFO bank.guru.user.NewCustomer] - Enter the email address without '@' symbol
+[2023-11-03 13:53:45,238 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:45,303 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:45,363 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:45,501 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:45,639 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:45,785 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:45,930 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:46,055 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:46,198 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:46,330 INFO bank.guru.user.NewCustomer] - Enter the missing domain in the email address
+[2023-11-03 13:53:46,471 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:46,534 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:46,575 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:46,688 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:46,805 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:46,925 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:47,049 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:47,183 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:47,327 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:47,472 INFO bank.guru.user.NewCustomer] - Enter the missing domain in the email address
+[2023-11-03 13:53:47,756 INFO bank.guru.user.NewCustomer] - Do not enter a value in Password field
+[2023-11-03 13:53:47,880 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:47,942 INFO bank.guru.user.NewCustomer] - Verify error message
+[2023-11-03 13:53:47,999 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:48,134 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:48,284 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:48,435 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:48,588 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:48,744 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:48,891 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:49,056 INFO bank.guru.user.NewCustomer] - Enter the missing domain in the email address
+[2023-11-03 13:53:49,240 INFO bank.guru.user.NewCustomer] - Do not enter a value in Password field
+[2023-11-03 13:53:49,380 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:49,461 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:53:49,604 INFO bank.guru.user.NewCustomer] - Verify text Alert
+[2023-11-03 13:53:49,612 INFO bank.guru.user.NewCustomer] - Click on the button OK
+[2023-11-03 13:53:49,622 INFO bank.guru.user.NewCustomer] - Enter the incorrect value in the Customer Name field
+[2023-11-03 13:53:49,777 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:49,954 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:50,083 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:50,211 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:50,344 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:50,466 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:50,595 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:53:50,755 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:53:50,882 INFO bank.guru.user.NewCustomer] - Click button Tab
+[2023-11-03 13:53:50,954 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:53:51,055 INFO bank.guru.user.NewCustomer] - Verify text Alert
+[2023-11-03 13:53:51,059 INFO bank.guru.user.NewCustomer] - Click on the button OK
+[2023-11-03 13:53:51,068 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:51,216 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:51,371 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:51,517 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:51,655 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:51,783 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:51,902 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:52,033 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:53:52,184 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:53:52,312 INFO bank.guru.user.NewCustomer] - Click button Reset
+[2023-11-03 13:53:52,411 INFO bank.guru.user.NewCustomer] - Verify value input
+[2023-11-03 13:53:52,882 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Customer Name field
+[2023-11-03 13:53:53,020 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Date of Birth field
+[2023-11-03 13:53:53,175 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Address field
+[2023-11-03 13:53:53,305 INFO bank.guru.user.NewCustomer] - Enter the correct value in the City field
+[2023-11-03 13:53:53,457 INFO bank.guru.user.NewCustomer] - Enter the correct value in the State field
+[2023-11-03 13:53:53,621 INFO bank.guru.user.NewCustomer] - Enter the correct value in the PIN field
+[2023-11-03 13:53:53,766 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Mobile Number field
+[2023-11-03 13:53:53,889 INFO bank.guru.user.NewCustomer] - Enter the correct value in the E-mail field
+[2023-11-03 13:53:54,036 INFO bank.guru.user.NewCustomer] - Enter the correct value in the Password field
+[2023-11-03 13:53:54,161 INFO bank.guru.user.NewCustomer] - Click button Submit
+[2023-11-03 13:53:55,783 INFO bank.guru.user.NewCustomer] - Verify text successful
+[2023-11-03 13:53:55,824 INFO bank.guru.user.NewCustomer] - Verify text value
+[2023-11-03 16:34:10,484 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-03 16:34:11,183 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-03 16:34:31,391 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-03 16:37:11,393 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-03 16:38:03,237 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-03 16:38:06,195 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-03 16:38:38,182 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-03 16:55:15,887 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-03 16:55:16,178 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-03 16:55:16,442 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-03 16:55:18,415 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-03 16:57:01,391 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-03 16:57:01,649 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-03 16:57:01,961 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-03 16:57:04,661 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-03 16:57:04,866 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-03 17:03:39,514 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-03 17:03:39,796 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-03 17:03:40,013 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-03 17:03:41,924 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-03 17:03:42,032 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 13:47:38,404 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 13:47:38,610 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 13:47:38,809 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 13:47:40,662 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 13:47:40,714 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 13:47:41,169 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 14:52:12,021 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 14:52:12,187 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 14:52:12,303 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 14:52:13,866 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 14:52:44,544 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 20:11:15,212 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 20:11:15,408 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 20:11:15,590 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 20:11:23,914 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 20:12:24,479 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 20:14:28,661 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 20:14:28,858 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 20:14:28,990 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 20:14:30,634 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 20:14:32,845 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 20:14:33,203 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 20:16:29,244 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 20:16:29,423 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 20:16:29,537 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 20:16:30,920 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 20:16:31,738 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 20:16:31,831 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 20:16:32,168 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 20:21:30,963 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 20:21:31,177 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 20:21:31,297 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 20:21:35,785 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 20:21:39,981 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 20:21:40,043 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 20:21:40,405 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 20:23:23,150 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 20:23:23,358 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 20:23:23,553 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 20:23:24,907 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 20:23:56,060 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 20:23:56,132 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 20:23:56,495 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 21:38:33,767 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 21:38:33,992 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 21:38:34,132 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 21:38:38,690 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 21:38:42,826 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 21:38:42,878 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 21:38:43,202 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 21:38:43,404 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-05 21:38:43,652 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:03:06,064 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:03:06,282 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:03:06,397 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:03:07,848 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:03:08,558 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 22:03:08,662 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 22:03:09,009 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:03:09,228 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-05 22:03:09,408 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:03:09,593 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-05 22:03:09,709 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:06:19,003 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:06:19,236 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:06:19,356 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:06:21,335 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:06:51,871 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:07:22,057 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-05 22:07:41,544 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:07:41,778 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:07:41,885 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:07:43,266 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 22:07:45,243 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 22:07:45,574 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:07:45,777 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-05 22:07:45,969 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:07:46,143 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-05 22:07:46,251 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:07:46,340 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-05 22:17:22,967 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:17:23,260 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:17:23,435 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:17:25,141 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:17:25,750 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-05 22:17:25,895 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-05 22:17:26,367 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:17:26,692 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-05 22:17:26,985 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:17:27,290 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-05 22:17:27,451 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:17:27,628 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-05 22:17:27,773 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-05 22:17:27,997 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:17:28,158 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:17:58,475 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:17:58,622 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:18:29,114 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:18:29,307 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:18:59,857 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:19:00,060 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:20:27,088 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:20:27,383 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:20:27,538 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:20:29,475 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:20:30,039 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 22:20:30,709 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:20:30,869 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:21:01,371 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:21:01,560 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:21:32,062 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:21:32,198 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:22:02,702 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:22:02,860 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:22:33,375 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:22:33,543 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:30:19,812 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:30:20,063 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:30:20,230 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:30:22,440 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:31:12,502 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:31:12,838 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:31:13,016 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:31:14,747 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:31:15,689 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 22:31:16,409 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:31:16,600 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:31:16,792 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 22:31:47,110 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:31:47,269 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:32:17,759 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:32:17,972 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:33:03,458 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:33:10,589 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:33:10,778 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:33:12,530 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:33:43,687 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 22:33:44,234 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:33:44,334 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:33:44,445 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 22:33:44,551 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:33:44,638 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:33:44,778 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:33:44,886 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:33:45,034 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:33:45,154 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:34:15,988 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:34:16,127 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:39:49,530 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:39:49,941 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:39:50,116 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:39:51,977 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:39:52,846 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 22:39:53,553 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:39:53,725 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:39:53,875 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 22:39:54,037 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:39:54,209 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:39:54,438 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:39:54,598 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:39:54,846 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:39:55,009 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:41:07,580 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 22:41:07,902 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 22:41:08,092 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 22:41:11,051 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 22:41:11,978 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 22:41:12,717 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:41:12,928 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:41:13,112 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 22:41:13,306 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:41:13,462 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:41:13,666 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:41:13,819 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:41:14,019 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:41:14,162 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 22:41:44,724 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 22:41:44,921 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:00:56,690 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:00:57,159 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:00:57,472 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:00:59,798 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:01:01,581 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:01:02,667 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:01:02,971 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:01:03,251 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:01:03,516 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:01:03,754 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:01:04,083 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:01:04,338 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:01:04,680 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:01:04,948 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:01:13,037 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:01:13,220 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:02:36,067 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:02:36,444 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:02:36,722 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:02:38,687 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:03:09,843 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:03:10,604 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:03:10,790 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:03:10,968 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:03:11,162 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:03:11,341 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:03:11,588 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:03:11,765 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:03:12,019 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:03:12,211 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:03:42,831 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:03:43,009 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:04:43,668 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:04:44,148 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:04:44,383 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:04:46,356 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:04:46,921 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:04:47,699 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:04:47,889 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:04:48,071 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:04:48,272 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:04:48,460 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:04:48,723 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:04:48,926 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:04:49,179 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:04:49,384 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:05:01,847 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:05:02,023 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:08:46,430 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:08:46,879 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:08:47,149 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:08:49,602 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:08:50,524 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:08:51,352 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:08:51,579 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:08:51,772 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:08:51,978 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:08:52,187 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:08:52,472 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:08:52,690 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:08:52,992 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:08:53,202 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:08:54,036 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:08:54,228 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:10:45,839 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:10:46,034 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:10:46,248 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:10:48,300 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:11:49,183 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:12:17,901 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:12:18,418 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:12:18,693 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:12:20,924 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:12:51,951 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:13:22,316 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:15:06,229 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:15:06,511 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:15:06,740 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:15:09,009 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:15:09,851 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:15:10,043 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:15:10,195 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:15:10,368 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:15:10,535 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:15:10,754 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:15:10,897 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:15:11,120 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:15:11,268 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:15:11,796 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:15:11,932 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:28:25,467 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:28:25,772 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:28:25,996 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:28:27,977 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:28:30,118 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:29:26,821 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:29:27,244 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:29:27,460 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:29:29,460 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:29:32,413 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:29:32,581 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:29:32,744 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:29:32,902 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:29:33,068 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:29:33,316 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:29:33,471 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:29:33,692 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:29:33,840 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:29:34,505 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:29:34,683 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:31:18,943 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-05 23:31:19,362 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-05 23:31:19,580 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-05 23:31:22,013 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-05 23:31:23,712 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-05 23:31:24,290 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:31:24,454 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:31:24,773 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-05 23:31:24,960 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:31:25,174 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:31:25,521 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:31:25,676 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:31:25,917 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:31:26,129 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-05 23:31:31,703 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-05 23:31:31,888 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:10:38,352 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:10:38,804 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:10:38,998 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:10:40,925 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-06 11:11:12,453 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 11:11:13,244 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:13,455 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:13,626 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 11:11:13,836 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:14,042 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:14,333 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:14,524 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:14,825 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:15,050 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:20,760 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:20,993 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:21,283 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:21,455 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:27,071 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:27,333 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:11:32,971 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:11:33,198 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:13:38,237 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:13:38,500 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:13:38,747 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:13:40,761 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-06 11:14:42,003 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:15:10,790 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:15:11,129 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:15:11,358 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:15:13,842 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-06 11:16:34,421 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:16:35,071 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:16:35,530 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:16:38,258 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:16:41,261 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:16:53,515 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:16:53,723 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:16:59,311 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:16:59,545 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:18:58,469 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:18:58,926 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:18:59,126 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:19:00,702 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:19:06,581 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:19:42,842 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:19:43,058 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:19:48,441 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:23:08,401 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:23:08,675 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:23:08,949 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:23:10,510 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:23:12,951 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:25:01,905 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:25:02,191 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:25:02,356 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:25:05,908 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:25:08,225 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:26:02,038 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:26:19,851 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:26:20,137 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:26:20,277 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:26:22,025 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:26:22,189 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:30:25,862 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:30:26,241 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:30:26,337 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:31:04,844 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:31:05,052 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:31:05,221 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:31:07,019 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:31:07,248 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:33:05,789 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:33:05,983 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:33:06,113 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:33:07,960 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:33:09,962 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:34:24,804 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:34:24,997 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:34:25,109 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:34:27,172 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:34:27,289 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:34:27,793 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:34:28,003 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:34:28,119 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:36:01,239 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:37:10,385 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:37:10,558 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:37:10,668 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:37:12,355 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:37:12,458 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:37:12,835 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:37:13,138 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:37:13,243 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:37:48,025 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:37:48,204 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:37:48,379 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:37:50,224 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:37:50,330 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:37:50,795 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:37:51,026 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:37:51,138 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:39:49,860 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:39:50,034 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:39:50,141 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:39:51,403 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:39:54,440 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:39:54,750 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:39:54,946 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:39:55,043 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:41:10,958 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:41:11,124 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:41:11,225 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:41:13,131 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:41:13,257 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:42:51,010 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:42:51,179 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:42:51,277 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:42:53,158 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:42:53,277 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:42:56,741 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:45:05,855 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:45:06,366 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:45:06,539 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:45:08,428 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:45:08,701 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:45:09,147 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:45:09,260 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:46:38,142 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:46:38,300 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:46:38,399 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:46:40,050 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-06 11:47:40,887 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 11:48:11,055 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 11:48:41,215 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 11:49:11,362 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 11:49:41,554 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 11:50:11,743 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:50:41,930 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:51:12,131 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:51:42,299 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:52:12,495 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:52:42,667 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:53:12,830 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:53:43,045 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:58:09,080 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:58:09,241 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:58:09,380 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:58:11,411 INFO bank.guru.user.NewAccount] - Block Ads
+[2023-11-06 11:59:05,572 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 11:59:05,781 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 11:59:06,114 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 11:59:08,181 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-06 11:59:08,302 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-06 11:59:08,705 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 11:59:09,119 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 11:59:09,271 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 11:59:09,422 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 11:59:09,508 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:59:09,579 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-06 11:59:39,763 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 11:59:39,957 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:59:40,058 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:59:40,178 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 11:59:40,260 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:59:40,331 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:59:40,445 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:59:40,591 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 11:59:40,714 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 11:59:40,796 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:00:11,089 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:00:11,193 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:00:11,328 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:00:11,416 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:00:11,601 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:00:11,735 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:00:11,933 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:00:12,024 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:02:38,365 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 12:02:38,624 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 12:02:38,804 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 12:02:41,764 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-06 12:02:44,418 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-06 12:02:44,650 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:02:44,931 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 12:02:45,092 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:02:45,258 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 12:02:45,335 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:02:45,419 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-06 12:02:45,486 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 12:02:45,717 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:02:45,817 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:02:45,898 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 12:02:45,970 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:02:46,047 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:02:46,146 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:02:46,218 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:02:46,345 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:02:46,439 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:03:16,691 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:03:16,788 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:03:16,902 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:03:16,977 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:03:17,132 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:03:17,357 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:03:17,507 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:03:17,588 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:53,752 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 12:05:53,905 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 12:05:54,024 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 12:05:55,824 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-06 12:05:55,877 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-06 12:05:56,276 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:05:56,483 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 12:05:56,671 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:05:56,844 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 12:05:56,931 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:57,016 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-06 12:05:57,105 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 12:05:57,343 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:57,450 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:57,646 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 12:05:57,734 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:57,823 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:57,935 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:58,027 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:58,167 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:58,254 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:58,612 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:58,706 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:58,839 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:58,923 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:59,090 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:59,179 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:05:59,325 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:05:59,419 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:34,337 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 12:08:34,485 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 12:08:34,588 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 12:08:36,479 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-06 12:08:36,538 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-06 12:08:36,968 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:08:37,165 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 12:08:37,343 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:08:37,529 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 12:08:37,607 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:37,677 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-06 12:08:37,752 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 12:08:37,968 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:38,059 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:38,155 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 12:08:38,239 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:38,323 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:38,429 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:38,513 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:38,649 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:38,737 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:39,085 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:39,190 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:39,325 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:39,405 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:39,544 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:39,636 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:08:39,775 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:08:39,855 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:09:59,994 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 12:10:00,175 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 12:10:00,301 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 12:10:01,843 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 12:11:01,120 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 12:11:01,299 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 12:11:01,490 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 12:11:03,239 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-06 12:11:03,304 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-06 12:11:03,655 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:11:03,834 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 12:11:04,000 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:11:04,167 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 12:11:04,255 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:04,341 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-06 12:11:04,431 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 12:11:04,627 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:04,703 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:04,779 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 12:11:04,852 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:04,932 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:05,032 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:05,102 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:05,220 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:05,296 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:05,582 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:05,656 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:05,769 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:05,839 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:05,973 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:06,064 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:11:06,198 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:11:06,272 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:03,723 INFO bank.guru.user.NewAccount] - Enter the correct email
+[2023-11-06 12:14:03,882 INFO bank.guru.user.NewAccount] - Enter the password
+[2023-11-06 12:14:04,007 INFO bank.guru.user.NewAccount] - Click on the button Login
+[2023-11-06 12:14:05,655 INFO bank.guru.user.NewAccount] - Verify text title
+[2023-11-06 12:14:05,715 INFO bank.guru.user.NewAccount] - Verify text label
+[2023-11-06 12:14:05,970 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:14:06,249 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+[2023-11-06 12:14:06,462 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+[2023-11-06 12:14:06,617 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+[2023-11-06 12:14:06,687 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:06,757 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+[2023-11-06 12:14:06,835 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+[2023-11-06 12:14:06,916 INFO bank.guru.user.NewAccount] - Enter correct Initial deposit field
+[2023-11-06 12:14:07,030 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:07,108 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:07,196 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+[2023-11-06 12:14:07,268 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:07,336 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:07,435 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:07,504 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:07,604 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:07,671 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:07,975 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:08,073 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:08,207 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:08,273 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:08,405 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:08,486 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+[2023-11-06 12:14:08,623 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+[2023-11-06 12:14:08,709 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly

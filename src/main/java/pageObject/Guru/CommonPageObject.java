@@ -34,8 +34,8 @@ public class CommonPageObject extends BasePage{
 		clickToElement(driver, CommonPageUI.DYNAMIC_RADIO_BUTTON, radioButtonValue);
 	}
 	public String getTextNewCustomerMessage(String fieldName) {
-		waitForElementVisible(driver, CommonPageUI.DYNAMIC_NEW_CUSTOMER_MESSAGE, fieldName);
-		return getElementText(driver, CommonPageUI.DYNAMIC_NEW_CUSTOMER_MESSAGE, fieldName);
+		waitForElementVisible(driver, CommonPageUI.DYNAMIC_MESSAGE, fieldName);
+		return getElementText(driver, CommonPageUI.DYNAMIC_MESSAGE, fieldName);
 	}
 	
 //	public boolean isDynamicMessageDisplayed(WebDriver driver, String messageText) {

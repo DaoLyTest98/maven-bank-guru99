@@ -9,22 +9,67 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="7">NopCommerce-User</th></tr>
-<tr><td><a href="#t0">Run on Headless Chrome</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">31,165</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Run on Headless Chrome</a></td><td class="num">13</td><td class="num">0</td><td class="num attn">1</td><td class="num">51,010</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">NopCommerce-User</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Run on Headless Chrome &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">bank.guru.user.Manager</td><td><a href="#m0">TC_37_Register_Successful</a></td><td rowspan="1">1698918803374</td><td rowspan="1">5519</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">NopCommerce-User</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Run on Headless Chrome &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">bank.guru.user.NewAccount</td><td><a href="#m0">NewAccount_12_Intital_Less_500</a></td><td rowspan="1">1699240447602</td><td rowspan="1">203</td></tr><tr><th colspan="4">Run on Headless Chrome &#8212; passed</th></tr><tr class="passedeven"><td rowspan="13">bank.guru.user.NewAccount</td><td><a href="#m1">NewAccount_01_Check_UI</a></td><td rowspan="1">1699240445596</td><td rowspan="1">240</td></tr><tr class="passedeven"><td><a href="#m2">NewAccount_04_Customer_ID_Blank</a></td><td rowspan="1">1699240445967</td><td rowspan="1">273</td></tr><tr class="passedeven"><td><a href="#m3">NewAccount_05_Customer_ID_Character</a></td><td rowspan="1">1699240446245</td><td rowspan="1">212</td></tr><tr class="passedeven"><td><a href="#m4">NewAccount_06_Customer_ID_Special_Character</a></td><td rowspan="1">1699240446459</td><td rowspan="1">155</td></tr><tr class="passedeven"><td><a href="#m5">NewAccount_07_Email_Not_Exist</a></td><td rowspan="1">1699240446616</td><td rowspan="1">214</td></tr><tr class="passedeven"><td><a href="#m6">NewAccount_08_Customer_ID_First_Blank</a></td><td rowspan="1">1699240446833</td><td rowspan="1">192</td></tr><tr class="passedeven"><td><a href="#m7">NewAccount_09_Intital_Blank</a></td><td rowspan="1">1699240447026</td><td rowspan="1">239</td></tr><tr class="passedeven"><td><a href="#m8">NewAccount_10_Intital_Blank</a></td><td rowspan="1">1699240447266</td><td rowspan="1">166</td></tr><tr class="passedeven"><td><a href="#m9">NewAccount_11_Intital_Special_Character</a></td><td rowspan="1">1699240447434</td><td rowspan="1">167</td></tr><tr class="passedeven"><td><a href="#m10">NewAccount_13_Intital_First_Blank</a></td><td rowspan="1">1699240447973</td><td rowspan="1">230</td></tr><tr class="passedeven"><td><a href="#m11">NewAccount_14_Check_Submit_Button_Blank</a></td><td rowspan="1">1699240448205</td><td rowspan="1">196</td></tr><tr class="passedeven"><td><a href="#m12">NewAccount_15_Check_Submit_Button_Incorrect</a></td><td rowspan="1">1699240448403</td><td rowspan="1">216</td></tr><tr class="passedeven"><td><a href="#m13">NewAccount_16_Check_Reset_Button</a></td><td rowspan="1">1699240448621</td><td rowspan="1">275</td></tr></tbody>
 </table>
-<h2>Run on Headless Chrome</h2><h3 id="m0">bank.guru.user.Manager#TC_37_Register_Successful</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-02 18:53:23,555 INFO bank.guru.user.Manager] - Enter the correct value in the Customer Name field
-<br/>[2023-11-02 18:53:26,834 INFO bank.guru.user.Manager] - Enter the correct value in the Date of Birth field
-<br/>[2023-11-02 18:53:26,921 INFO bank.guru.user.Manager] - Enter the correct value in the Address field
-<br/>[2023-11-02 18:53:27,022 INFO bank.guru.user.Manager] - Enter the correct value in the City field
-<br/>[2023-11-02 18:53:27,105 INFO bank.guru.user.Manager] - Enter the correct value in the State field
-<br/>[2023-11-02 18:53:27,179 INFO bank.guru.user.Manager] - Enter the correct value in the PIN field
-<br/>[2023-11-02 18:53:27,254 INFO bank.guru.user.Manager] - Enter the correct value in the Mobile Number field
-<br/>[2023-11-02 18:53:27,342 INFO bank.guru.user.Manager] - Enter the correct value in the E-mail field
-<br/>[2023-11-02 18:53:27,456 INFO bank.guru.user.Manager] - Enter the correct value in the Password field
-<br/>[2023-11-02 18:53:27,531 INFO bank.guru.user.Manager] - Click button Submit
-<br/>[2023-11-02 18:53:28,553 INFO bank.guru.user.Manager] - Verify text successful
-<br/>[2023-11-02 18:53:28,590 INFO bank.guru.user.Manager] - Verify text value
+<h2>Run on Headless Chrome</h2><h3 id="m0">bank.guru.user.NewAccount#NewAccount_12_Intital_Less_500</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Please fill all fields}
+  (Session info: chrome=119.0.6045.105): Please fill all fields
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.17&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cae4b2c695bf3ac9ffdb3fcc9053f6d8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55709}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55709/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cae4b2c695bf3ac9ffdb3fcc9053f6d8
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+	at reportConfig.ReportNGListener.captureScreenshotBase64(ReportNGListener.java:71)
+	at reportConfig.ReportNGListener.onTestFailure(ReportNGListener.java:48)
+... Removed 22 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">bank.guru.user.NewAccount#NewAccount_01_Check_UI</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:05,655 INFO bank.guru.user.NewAccount] - Verify text title
+<br/>[2023-11-06 12:14:05,715 INFO bank.guru.user.NewAccount] - Verify text label
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">bank.guru.user.NewAccount#NewAccount_04_Customer_ID_Blank</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:05,970 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">bank.guru.user.NewAccount#NewAccount_05_Customer_ID_Character</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:06,249 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">bank.guru.user.NewAccount#NewAccount_06_Customer_ID_Special_Character</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:06,462 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">bank.guru.user.NewAccount#NewAccount_07_Email_Not_Exist</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:06,617 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+<br/>[2023-11-06 12:14:06,687 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+<br/>[2023-11-06 12:14:06,757 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">bank.guru.user.NewAccount#NewAccount_08_Customer_ID_First_Blank</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:06,835 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+<br/>[2023-11-06 12:14:06,916 INFO bank.guru.user.NewAccount] - Enter correct Initial deposit field
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">bank.guru.user.NewAccount#NewAccount_09_Intital_Blank</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:07,030 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:07,108 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+<br/>[2023-11-06 12:14:07,196 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">bank.guru.user.NewAccount#NewAccount_10_Intital_Blank</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:07,268 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:07,336 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">bank.guru.user.NewAccount#NewAccount_11_Intital_Special_Character</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:07,435 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:07,504 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">bank.guru.user.NewAccount#NewAccount_13_Intital_First_Blank</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:07,975 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:08,073 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">bank.guru.user.NewAccount#NewAccount_14_Check_Submit_Button_Blank</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:08,207 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:08,273 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">bank.guru.user.NewAccount#NewAccount_15_Check_Submit_Button_Incorrect</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:08,405 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:08,486 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">bank.guru.user.NewAccount#NewAccount_16_Check_Reset_Button</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">[2023-11-06 12:14:08,623 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+<br/>[2023-11-06 12:14:08,709 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
 </div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

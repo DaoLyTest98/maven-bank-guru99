@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Headless Chrome"
+           tests="14"
+           failures="1"
+           errors="0"
+           skipped="0"
+           time="2.978">
+  <properties />
+            <testcase name="NewAccount_12_Intital_Less_500" time="0.203" classname="bank.guru.user.NewAccount">
+                <failure type="org.openqa.selenium.UnhandledAlertException"
+                  message="unexpected alert open: {Alert text : Please fill all fields}
+  (Session info: chrome=119.0.6045.105): Please fill all fields
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.17&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cae4b2c695bf3ac9ffdb3fcc9053f6d8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55709}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55709/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cae4b2c695bf3ac9ffdb3fcc9053f6d8"
+              >
+<![CDATA[org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Please fill all fields}
+  (Session info: chrome=119.0.6045.105): Please fill all fields
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cae4b2c695bf3ac9ffdb3fcc9053f6d8, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55709}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55709/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cae4b2c695bf3ac9ffdb3fcc9053f6d8
+  org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)
+  org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+  org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+  org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+  org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+  org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+  org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+  reportConfig.ReportNGListener.captureScreenshotBase64(ReportNGListener.java:71)
+  reportConfig.ReportNGListener.onTestFailure(ReportNGListener.java:48)
+  org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:67)
+  org.testng.internal.Invoker.runTestListeners(Invoker.java:1389)
+  org.testng.internal.Invoker.invokeMethod(Invoker.java:636)
+  org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+  org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+  org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+  org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+  org.testng.TestRunner.privateRun(TestRunner.java:648)
+  org.testng.TestRunner.run(TestRunner.java:505)
+  org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+  org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+  org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+  org.testng.SuiteRunner.run(SuiteRunner.java:364)
+  org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+  org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+  org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+  org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+  org.testng.TestNG.runSuites(TestNG.java:1049)
+  org.testng.TestNG.run(TestNG.java:1017)
+  org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+  org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+  org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+      </failure>
+
+          </testcase>
+  
+  
+            <testcase name="NewAccount_16_Check_Reset_Button" time="0.275" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_01_Check_UI" time="0.240" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_04_Customer_ID_Blank" time="0.273" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_09_Intital_Blank" time="0.239" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_06_Customer_ID_Special_Character" time="0.155" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_14_Check_Submit_Button_Blank" time="0.196" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_10_Intital_Blank" time="0.166" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_07_Email_Not_Exist" time="0.214" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_11_Intital_Special_Character" time="0.167" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_13_Intital_First_Blank" time="0.230" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_08_Customer_ID_First_Blank" time="0.192" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_05_Customer_ID_Character" time="0.212" classname="bank.guru.user.NewAccount" />
+                <testcase name="NewAccount_15_Check_Submit_Button_Incorrect" time="0.216" classname="bank.guru.user.NewAccount" />
+      
+</testsuite>

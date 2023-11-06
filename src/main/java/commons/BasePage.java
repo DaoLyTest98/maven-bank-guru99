@@ -614,6 +614,8 @@ public class BasePage {
 			return PageGeneratorManager.getNewCustomerPage(driver);
 		case "Edit Customer":
 			return PageGeneratorManager.getEditCustomerPage(driver);
+		case "New Account":
+			return PageGeneratorManager.getNewAccountPage(driver);
 		default:
 			throw new RuntimeException("Invalid page name ");
 		}
@@ -623,7 +625,10 @@ public class BasePage {
 		locatorType = getDynamicXpath(locatorType, dynamicValues);
 		getWebElement(driver,locatorType).sendKeys(Keys.TAB);
 	}
-
+	public void clearValueInput(WebDriver driver,String locatorType,String... dynamicValues) {
+		locatorType = getDynamicXpath(locatorType, dynamicValues);
+		getWebElement(driver,locatorType).clear();;
+	}
 	public long longTimeout = GlobalConstants.LONG_TIMEOUT;
 	public long shortTimeout = GlobalConstants.SHORT_TIMEOUT;
 }
