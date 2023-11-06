@@ -10,14 +10,13 @@
   <test thread-count="5" name="Run on Headless Chrome(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="bank.guru.user.Manager">
+      <class name="bank.guru.user.NewAccount">
         <methods>
-          <include name="TC_37_Register_Successful"/>
           <include name="beforeClass"/>
-          <include name="afterClass"/>
+          <include name="NewAccount_12_Intital_Less_500"/>
           <include name="initBeforeSuite"/>
         </methods>
-      </class> <!-- bank.guru.user.Manager -->
+      </class> <!-- bank.guru.user.NewAccount -->
     </classes>
   </test> <!-- Run on Headless Chrome(failed) -->
 </suite> <!-- Failed suite [NopCommerce-User] -->

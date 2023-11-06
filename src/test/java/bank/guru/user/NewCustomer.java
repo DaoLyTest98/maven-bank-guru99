@@ -43,12 +43,12 @@ public class NewCustomer extends BaseTest{
 		gender = "male";
 		email = DataHelper.getDataHelper().getEmailAddress();
 	}
-	//@Test
-	public void TC_01_Verify_Text_Title_And_Text_Label() {
+	@Test
+	public void NewCustomer_01_Verify_Text_Title_And_Text_Label() {
 		log.info("Click Customer Page Menu");
 		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
-//		log.info("Block Ads");
-//		newCustomerPage.blockAds(driver);
+		log.info("Block Ads");
+		newCustomerPage.blockAds(driver);
 		log.info("Verify text title");
 		Assert.assertEquals(newCustomerPage.getTextTitle(), "Add New Customer");
 		log.info("Verify the text in the Customer Name label");
@@ -73,9 +73,8 @@ public class NewCustomer extends BaseTest{
 		Assert.assertTrue(newCustomerPage.isDisplaysTextLabel("Password"));
 	}
 	
-	//@Test
-	public void TC_03_Customer_Name_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_03_Customer_Name_Blank() {
 		log.info("Leak the Customer Name field blank ");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", "");
 		log.info("Click button Tab");
@@ -84,8 +83,8 @@ public class NewCustomer extends BaseTest{
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Customer Name"),"Customer name must not be blank");
 	}
 	
-	//@Test
-	public void TC_04_Customer_Name_Numberic() {
+	@Test
+	public void NewCustomer_04_Customer_Name_Numberic() {
 		log.info("Enter numeic value in Customer Name Field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", "1234");
 //		log.info("Click button Tab");
@@ -93,8 +92,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Customer Name"),"Numbers are not allowed");
 	}
-	//@Test
-	public void TC_05_Customer_Name_Special() {
+	@Test
+	public void NewCustomer_05_Customer_Name_Special() {
 		log.info("Enter special character value in Customer Name Field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", "@#$$");
 //		log.info("Click button Tab");
@@ -103,8 +102,8 @@ public class NewCustomer extends BaseTest{
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Customer Name"),"Special characters are not allowed");
 	}
 	
-	//@Test
-	public void TC_06_Customer_Name_First_Character() {
+	@Test
+	public void NewCustomer_06_Customer_Name_First_Character() {
 		log.info("Enter First character as blank space");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", " Dao Ly");
 //		log.info("Click button Tab");
@@ -112,9 +111,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Customer Name"),"First character can not have space");
 	}
-	//@Test
-	public void TC_07_Date_Of_Birth_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_07_Date_Of_Birth_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -124,9 +122,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Date of Birth"),"Date Field must not be blank");
 	}
-	//@Test
-	public void TC_08_Date_Of_Birth_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_08_Date_Of_Birth_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -137,9 +134,8 @@ public class NewCustomer extends BaseTest{
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Date of Birth"),"Date Field must not be blank");
 	}
 	
-	//@Test
-	public void TC_09_Address_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_09_Address_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -152,9 +148,8 @@ public class NewCustomer extends BaseTest{
 		Assert.assertEquals(newCustomerPage.getTextAddressMessage("Address"),"Address Field must not be blank");
 	}
 	
-	//@Test
-	public void TC_10_Address_First_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_10_Address_First_Blank() {
 		log.info("Enter First character as blank space");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -166,9 +161,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextAddressMessage("Address"),"First character can not have space");
 	}
-	//@Test
-	public void TC_11_City_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_11_City_Blank() {
 		log.info("Enter First character as blank space");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -182,9 +176,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("City"),"City Field must not be blank");
 	}
-	//@Test
-	public void TC_12_City_Numeic() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_12_City_Numeic() {
 		log.info("Enter First character as blank space");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -198,9 +191,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("City"),"Numbers are not allowed");
 	}
-	//@Test
-	public void TC_13_City_Special() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_13_City_Special() {
 		log.info("Enter First character as blank space");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -214,9 +206,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("City"),"Special characters are not allowed");
 	}
-	//@Test
-	public void TC_14_City_First_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_14_City_First_Blank() {
 		log.info("Enter First character as blank space");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Do not enter a value in Date of Birth field");
@@ -230,9 +221,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("City"),"First character can not have space");
 	}
-	//@Test
-	public void TC_15_State_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_15_State_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -248,9 +238,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("State"),"State must not be blank");
 	}
-	//@Test
-	public void TC_16_State_Numeic() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_16_State_Numeic() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -266,9 +255,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("State"),"Numbers are not allowed");
 	}
-	//@Test
-	public void TC_17_State_Special() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_17_State_Special() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -284,9 +272,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("State"),"Special characters are not allowed");
 	}
-	//@Test
-	public void TC_18_State_First_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_18_State_First_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -302,9 +289,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("State"),"First character can not have space");
 	}
-	//@Test
-	public void TC_19_State_First_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_19_State_First_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -322,9 +308,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("PIN"),"PIN Code must not be blank");
 	}
-	//@Test
-	public void TC_20_PIN_Character() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_20_PIN_Character() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -342,9 +327,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("PIN"),"Characters are not allowed");
 	}
-	//@Test
-	public void TC_21_PIN_Less_Six_Digits() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_21_PIN_Less_Six_Digits() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -362,9 +346,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("PIN"),"PIN Code must have 6 Digits");
 	}
-	//@Test
-	public void TC_22_PIN_Special() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_22_PIN_Special() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -382,9 +365,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("PIN"),"Special characters are not allowed");
 	}
-	//@Test
-	public void TC_23_PIN_First_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_23_PIN_First_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -402,9 +384,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("PIN"),"First character can not have space");
 	}
-	//@Test
-	public void TC_24_Mobile_Number_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_24_Mobile_Number_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -424,9 +405,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Mobile Number"),"Mobile no must not be blank");
 	}
-	//@Test
-	public void TC_25_Mobile_Character() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_25_Mobile_Character() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -446,9 +426,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Mobile Number"),"Characters are not allowed");
 	}
-	//@Test
-	public void TC_26_Mobile_Number_Special() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_26_Mobile_Number_Special() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -468,9 +447,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Mobile Number"),"Special characters are not allowed");
 	}
-	//@Test
-	public void TC_27_Mobile_Number_First_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_27_Mobile_Number_First_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -490,9 +468,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Mobile Number"),"First character can not have space");
 	}
-	//@Test
-	public void TC_28_Email_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_28_Email_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -514,9 +491,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("E-mail"),"Email-ID must not be blank");
 	}
-	//@Test
-	public void TC_29_Email_First_Character_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_29_Email_First_Character_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -538,9 +514,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("E-mail"),"First character can not have space");
 	}
-	//@Test
-	public void TC_30_Email_Without_Username() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_30_Email_Without_Username() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -562,9 +537,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("E-mail"),"Email-ID is not valid");
 	}
-	//@Test
-	public void TC_31_Email_Without_At_Sign() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_31_Email_Without_At_Sign() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -586,9 +560,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("E-mail"),"Email-ID is not valid");
 	}
-	//@Test
-	public void TC_32_Email_Miss_Domain() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_32_Email_Miss_Domain() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -611,9 +584,8 @@ public class NewCustomer extends BaseTest{
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("E-mail"),"Email-ID is not valid");
 	}
 	
-	//@Test
-	public void TC_33_Password_Blank() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_33_Password_Blank() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -637,9 +609,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Verify error message");
 		Assert.assertEquals(newCustomerPage.getTextNewCustomerMessage("Password"),"Password must not be blank");
 	}
-	//@Test
-	public void TC_34_Alert_Submit_Button_Blank_Field() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_34_Alert_Submit_Button_Blank_Field() {
 		log.info("Enter the correct value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 		log.info("Enter the correct value in the Date of Birth field");
@@ -667,9 +638,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Click on the button OK");
 		loginPage.clickButtonOkAlert();
 	}
-	//@Test
-	public void TC_35_Alert_Submit_Button_Incorrect_Field() {
-		newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+	public void NewCustomer_35_Alert_Submit_Button_Incorrect_Field() {
 		log.info("Enter the incorrect value in the Customer Name field");
 		newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", " employeeName");
 		log.info("Enter the correct value in the Date of Birth field");
@@ -697,9 +667,8 @@ public class NewCustomer extends BaseTest{
 		log.info("Click on the button OK");
 		loginPage.clickButtonOkAlert();
 	}
-	//@Test
-		public void TC_36_Rest_Button() {
-			newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+	@Test
+		public void NewCustomer_36_Rest_Button() {
 			log.info("Enter the correct value in the Customer Name field");
 			newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", validEmployeeName);
 			log.info("Enter the correct value in the Date of Birth field");
@@ -733,8 +702,7 @@ public class NewCustomer extends BaseTest{
 		}
 		
 		@Test
-		public void TC_37_Register_Successful() {
-			newCustomerPage= (NewCustomerPageObject)managerPage.openMenuPage(driver, "New Customer");
+		public void NewCustomer_37_Register_Successful() {
 			log.info("Enter the correct value in the Customer Name field");
 			newCustomerPage.inputToDynamicTextbox(driver, "Customer Name", "Dao Ly");
 			log.info("Enter the correct value in the Date of Birth field");

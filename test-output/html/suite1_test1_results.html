@@ -12,54 +12,336 @@
 <body>
 <h1>Run on Headless Chrome</h1>
 <p>
-  Test duration: 31.078s
+  Test duration: 50.707s
 </p>
 
 
 
+  <table class="resultsTable">
+    <tr><th colspan="3" class="header failed">Failed Tests</th></tr>
+          <tr>
+        <td colspan="3" class="group">bank.guru.user.NewAccount</td>
+      </tr>
+            
+<tr>
+  <td class="method">
+                  NewAccount_12_Intital_Less_500
+      </td>
+  <td class="duration">
+    0.203s
+  </td>
+  <td class="result">
+        
+    
+        
+
+        <a href="javascript:toggleElement('exception-0', 'block')" title="Click to expand/collapse"><b>org.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Please fill all fields}<br/>
+&nbsp; (Session info: chrome=119.0.6045.105): Please fill all fields<br/>
+Build info: version: &apos;4.11.0&apos;, revision: &apos;040bc5406b&apos;<br/>
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;11.0.17&apos;<br/>
+Driver info: org.openqa.selenium.chrome.ChromeDriver<br/>
+Command: [cae4b2c695bf3ac9ffdb3fcc9053f6d8, screenshot {}]<br/>
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 119.0.6045.105, chrome: {chromedriverVersion: 119.0.6045.105 (38c72552c5e..., userDataDir: C:\Users\LyDT\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55709}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55709/devtoo..., se:cdpVersion: 119.0.6045.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}<br/>
+Session ID: cae4b2c695bf3ac9ffdb3fcc9053f6d8</b></a><br />
+    <div class="stackTrace" id="exception-0">
+              org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:131)<br />
+              org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)<br />
+              org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)<br />
+              org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)<br />
+              org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)<br />
+              org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)<br />
+              reportConfig.ReportNGListener.captureScreenshotBase64(ReportNGListener.java:71)<br />
+              reportConfig.ReportNGListener.onTestFailure(ReportNGListener.java:48)<br />
+              org.testng.internal.TestListenerHelper.runTestListeners(TestListenerHelper.java:67)<br />
+              org.testng.internal.Invoker.runTestListeners(Invoker.java:1389)<br />
+              org.testng.internal.Invoker.invokeMethod(Invoker.java:636)<br />
+              org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)<br />
+              org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)<br />
+              org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)<br />
+              org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)<br />
+              org.testng.TestRunner.privateRun(TestRunner.java:648)<br />
+              org.testng.TestRunner.run(TestRunner.java:505)<br />
+              org.testng.SuiteRunner.runTest(SuiteRunner.java:455)<br />
+              org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)<br />
+              org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)<br />
+              org.testng.SuiteRunner.run(SuiteRunner.java:364)<br />
+              org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)<br />
+              org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)<br />
+              org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)<br />
+              org.testng.TestNG.runSuitesLocally(TestNG.java:1137)<br />
+              org.testng.TestNG.runSuites(TestNG.java:1049)<br />
+              org.testng.TestNG.run(TestNG.java:1017)<br />
+              org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)<br />
+              org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)<br />
+              org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)<br />
+                </div>
+      </td>
+</tr>
+      </table>
 
 
   <table class="resultsTable">
     <tr><th colspan="3" class="header passed">Passed Tests</th></tr>
           <tr>
-        <td colspan="3" class="group">bank.guru.user.Manager</td>
+        <td colspan="3" class="group">bank.guru.user.NewAccount</td>
       </tr>
             
 <tr>
   <td class="method">
-                  TC_37_Register_Successful
+                  NewAccount_01_Check_UI
       </td>
   <td class="duration">
-    5.519s
+    0.240s
   </td>
   <td class="result">
         
     
             <div class="testOutput">
-                        [2023-11-02 18:53:23,555 INFO bank.guru.user.Manager] - Enter the correct value in the Customer Name field<br/>
-<br />
-                                [2023-11-02 18:53:26,834 INFO bank.guru.user.Manager] - Enter the correct value in the Date of Birth field<br/>
-<br />
-                                [2023-11-02 18:53:26,921 INFO bank.guru.user.Manager] - Enter the correct value in the Address field<br/>
-<br />
-                                [2023-11-02 18:53:27,022 INFO bank.guru.user.Manager] - Enter the correct value in the City field<br/>
-<br />
-                                [2023-11-02 18:53:27,105 INFO bank.guru.user.Manager] - Enter the correct value in the State field<br/>
-<br />
-                                [2023-11-02 18:53:27,179 INFO bank.guru.user.Manager] - Enter the correct value in the PIN field<br/>
-<br />
-                                [2023-11-02 18:53:27,254 INFO bank.guru.user.Manager] - Enter the correct value in the Mobile Number field<br/>
-<br />
-                                [2023-11-02 18:53:27,342 INFO bank.guru.user.Manager] - Enter the correct value in the E-mail field<br/>
-<br />
-                                [2023-11-02 18:53:27,456 INFO bank.guru.user.Manager] - Enter the correct value in the Password field<br/>
-<br />
-                                [2023-11-02 18:53:27,531 INFO bank.guru.user.Manager] - Click button Submit<br/>
-<br />
-                                [2023-11-02 18:53:28,553 INFO bank.guru.user.Manager] - Verify text successful<br/>
-<br />
-                                [2023-11-02 18:53:28,590 INFO bank.guru.user.Manager] - Verify text value<br/>
-<br />
+                        [2023-11-06 12:14:05,655 INFO bank.guru.user.NewAccount] - Verify text title
+
+                                [2023-11-06 12:14:05,715 INFO bank.guru.user.NewAccount] - Verify text label
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_04_Customer_ID_Blank
+      </td>
+  <td class="duration">
+    0.273s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:05,970 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_05_Customer_ID_Character
+      </td>
+  <td class="duration">
+    0.212s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:06,249 INFO bank.guru.user.NewAccount] - Enter Character value in Customer id
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_06_Customer_ID_Special_Character
+      </td>
+  <td class="duration">
+    0.155s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:06,462 INFO bank.guru.user.NewAccount] - Do not enter a value in Customer id field
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_07_Email_Not_Exist
+      </td>
+  <td class="duration">
+    0.214s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:06,617 INFO bank.guru.user.NewAccount] - Enter an unregistered Customer id
+
+                                [2023-11-06 12:14:06,687 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                                [2023-11-06 12:14:06,757 INFO bank.guru.user.NewAccount] - Click on the button Submit 
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_08_Customer_ID_First_Blank
+      </td>
+  <td class="duration">
+    0.192s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:06,835 INFO bank.guru.user.NewAccount] - Enter First character as blank space
+
+                                [2023-11-06 12:14:06,916 INFO bank.guru.user.NewAccount] - Enter correct Initial deposit field
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_09_Intital_Blank
+      </td>
+  <td class="duration">
+    0.239s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:07,030 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:07,108 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                                [2023-11-06 12:14:07,196 INFO bank.guru.user.NewAccount] - Clear value in Initial deposit field
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_10_Intital_Blank
+      </td>
+  <td class="duration">
+    0.166s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:07,268 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:07,336 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_11_Intital_Special_Character
+      </td>
+  <td class="duration">
+    0.167s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:07,435 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:07,504 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_13_Intital_First_Blank
+      </td>
+  <td class="duration">
+    0.230s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:07,975 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:08,073 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_14_Check_Submit_Button_Blank
+      </td>
+  <td class="duration">
+    0.196s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:08,207 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:08,273 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_15_Check_Submit_Button_Incorrect
+      </td>
+  <td class="duration">
+    0.216s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:08,405 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:08,486 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
+                  </div>
+    
+
+      </td>
+</tr>
+<tr>
+  <td class="method">
+                  NewAccount_16_Check_Reset_Button
+      </td>
+  <td class="duration">
+    0.275s
+  </td>
+  <td class="result">
+        
+    
+            <div class="testOutput">
+                        [2023-11-06 12:14:08,623 INFO bank.guru.user.NewAccount] - Enter correct value Customer id
+
+                                [2023-11-06 12:14:08,709 INFO bank.guru.user.NewAccount] - Enter the remaining fields correctly
+
                   </div>
     
 

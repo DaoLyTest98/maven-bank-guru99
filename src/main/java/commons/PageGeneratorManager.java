@@ -5,6 +5,7 @@ import org.openqa.selenium.WebDriver;
 import pageObject.Guru.CommonPageObject;
 import pageObject.Guru.EditCustomerPageObject;
 import pageObject.Guru.ManagerPageObject;
+import pageObject.Guru.NewAccountPageObject;
 import pageObject.Guru.LoginPageObject;
 import pageObject.Guru.ManagerPageObject;
 import pageObject.Guru.NewCustomerPageObject;
@@ -33,4 +34,8 @@ public class PageGeneratorManager {
 	public static CommonPageObject getCommonPage(WebDriver driver) {
 		return new CommonPageObject(driver);
 	}
+	public static NewAccountPageObject getNewAccountPage(WebDriver driver) {
+		return new NewAccountPageObject(driver);
+	}
+	
 }

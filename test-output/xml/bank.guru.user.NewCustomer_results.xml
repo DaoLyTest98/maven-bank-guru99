@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Headless Chrome"
+           tests="36"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="36.616">
+  <properties />
+  
+  
+            <testcase name="TC_35_Alert_Submit_Button_Incorrect_Field" time="1.443" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_27_Mobile_Number_First_Blank" time="0.999" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_20_PIN_Character" time="1.128" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_31_Email_Without_At_Sign" time="1.042" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_01_Verify_Text_Title_And_Text_Label" time="2.637" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_09_Address_Blank" time="0.525" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_07_Date_Of_Birth_Blank" time="0.490" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_19_State_First_Blank" time="1.067" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_17_State_Special" time="0.857" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_06_Customer_Name_First_Character" time="0.239" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_26_Mobile_Number_Special" time="1.066" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_32_Email_Miss_Domain" time="1.211" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_25_Mobile_Character" time="1.174" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_11_City_Blank" time="0.582" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_22_PIN_Special" time="1.058" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_30_Email_Without_Username" time="1.157" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_16_State_Numeic" time="0.714" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_34_Alert_Submit_Button_Blank_Field" time="1.622" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_08_Date_Of_Birth_Blank" time="0.436" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_10_Address_First_Blank" time="0.506" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_12_City_Numeic" time="0.659" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_23_PIN_First_Blank" time="1.140" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_28_Email_Blank" time="1.199" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_04_Customer_Name_Numberic" time="0.216" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_13_City_Special" time="0.619" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_15_State_Blank" time="0.773" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_05_Customer_Name_Special" time="0.239" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_18_State_First_Blank" time="0.737" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_36_Rest_Button" time="1.808" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_37_Register_Successful" time="3.459" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_03_Customer_Name_Blank" time="0.406" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_14_City_First_Blank" time="0.655" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_29_Email_First_Character_Blank" time="1.249" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_24_Mobile_Number_Blank" time="1.168" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_33_Password_Blank" time="1.420" classname="bank.guru.user.NewCustomer" />
+                <testcase name="TC_21_PIN_Less_Six_Digits" time="0.916" classname="bank.guru.user.NewCustomer" />
+      
+</testsuite>
